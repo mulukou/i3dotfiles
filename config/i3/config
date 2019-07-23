@@ -1,5 +1,6 @@
 # startup
 #
+exec bash $HOME/.config/polybar/launch.sh &
 exec compton &
 exec nitrogen --restore &
 exec nvidia-settings --load-config-only &
