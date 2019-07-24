@@ -20,6 +20,10 @@ gaps outer 3
 #
 bindsym Print exec xfce4-screenshooter
 bindsym $mod+Escape exec gnome-system-monitor
+bindsym XF86AudioPlay exec playerctl play-pause
+bindsym XF86AudioPause exec playerctl play-pause
+bindsym XF86AudioNext exec playerctl next
+bindsym XF86AudioPrev exec playerctl previous
 #
 #
 
@@ -160,11 +164,11 @@ mode "Launcher" {
 	bindsym l exec lutris
 	bindsym t exec technic-launcher
 	bindsym g exec gimp
-	bindsym s exec spotify
 	bindsym p exec pavucontrol
 	bindsym b exec blueman-manager
 	bindsym n exec nvidia-settings
 	bindsym Shift+g exec gnome-disks
+	bindsym Shift+s exec spotify
 
         # back to normal: Enter or Escape or $mod+r
         bindsym Return mode "default"
