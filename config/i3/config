@@ -6,6 +6,7 @@ exec nitrogen --restore &
 exec nvidia-settings --load-config-only &
 exec discord &
 exec whatsapp-nativefier &
+exec flameshot &
 #
 #
 
@@ -18,7 +19,7 @@ gaps outer 3
 
 # custom keys
 #
-bindsym Print exec xfce4-screenshooter
+bindsym Print exec flameshot
 bindsym $mod+Escape exec gnome-system-monitor
 bindsym XF86AudioPlay exec playerctl play-pause
 bindsym XF86AudioPause exec playerctl play-pause
