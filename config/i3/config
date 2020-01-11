@@ -31,7 +31,7 @@ gaps outer 3
 # custom keys
 #
 bindsym Print exec flameshot gui
-bindsym $mod+Escape exec gnome-system-monitor
+bindsym $mod+Escape exec termite -e htop
 bindsym XF86AudioPlay exec playerctl play-pause
 bindsym XF86AudioPause exec playerctl play-pause
 bindsym XF86AudioNext exec playerctl next

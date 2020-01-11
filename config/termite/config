@@ -29,25 +29,25 @@ highlight = #30343e
 # https://github.com/chriskempson/base16-xresources/blob/master/base16-codeschool.dark.256.xresources
 # Base16 Codeschool
 # Scheme: brettof86
-foreground=#9ea7a6
-background=#232c31
-cursor=#9ea7a6
+foreground=#ffffff
+background=rgba(0, 0, 0, 0.1)
+cursor=#ffffff
 
-color0=#232c31
-color1=#2a5491
-color2=#237986
-color3=#a03b1e
-color4=#484d79
-color5=#c59820
-color6=#b02f30
+color0=#090b0d
+color1=#44006e
+color2=#00deff
+color3=#ff5500
+color4=#f6ff00
+color5=#ff00f7
+color6=#ff0002
 color7=#9ea7a6
 color8=#3f4944
-color9=#2a5491
-color10=#237986
-color11=#a03b1e
-color12=#484d79
-color13=#c59820
-color14=#b02f30
+color9=#44006e
+color10=#00deff
+color11=#ff5500
+color12=#f6ff00
+color13=#ff00f7
+color14=#0dff00
 color15=#b5d8f6
 
 color16=#43820d
