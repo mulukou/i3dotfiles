@@ -1,0 +1,2 @@
+pinto = 'rola'
+print(pinto)
