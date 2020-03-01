@@ -11,12 +11,16 @@ exec firefox &
 #
 #
 
+#setting monitors
+
+workspace 3 output DisplayPort-0
+
 # Assign Workspaces:
 #
-assign [class="discord"] $ws4
+assign [class="discord"] $ws3
 assign [class="steam"] $ws1
-assign [class="whats-app"] $ws2
-assign [class="firefox"] $ws3
+assign [class="whatsapp-nativefier"] $ws3
+assign [class="firefox"] $ws2
 assign [class="lutris"] $ws1
 #
 #
