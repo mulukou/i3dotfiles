@@ -1,0 +1,11 @@
+[2020-09-03 14:45:07.675] [sharedprocess] [info] main {"machineId":"bbbe276783e691fdc6ba574b54e6df3932465a9572a18bf1c4025f056dac2600","windowId":2}
+[2020-09-03 14:45:07.911] [sharedprocess] [info] Deleted from disk ms-vsliveshare.vsliveshare /home/mulukou/.vscode/extensions/ms-vsliveshare.vsliveshare-1.0.2731
+[2020-09-03 14:45:09.405] [sharedprocess] [info] Installing extension: ms-python.python
+[2020-09-03 14:45:15.441] [sharedprocess] [info] Downloaded extension: ms-python.python /home/mulukou/.config/Code/CachedExtensionVSIXs/ms-python.python-2020.8.106424
+[2020-09-03 14:45:17.945] [sharedprocess] [info] Extracted extension to /home/mulukou/.vscode/extensions/.ms-python.python-2020.8.106424: ms-python.python
+[2020-09-03 14:45:17.945] [sharedprocess] [info] Renamed to /home/mulukou/.vscode/extensions/ms-python.python-2020.8.106424
+[2020-09-03 14:45:17.949] [sharedprocess] [info] Installation completed. ms-python.python
+[2020-09-03 14:45:17.955] [sharedprocess] [info] Extensions installed successfully: ms-python.python
+[2020-09-03 14:45:47.689] [sharedprocess] [info] Starting to clean up unused language packs.
+[2020-09-04 01:37:51.855] [sharedprocess] [info] main {"machineId":"bbbe276783e691fdc6ba574b54e6df3932465a9572a18bf1c4025f056dac2600","windowId":2}
+[2020-09-04 01:37:52.266] [sharedprocess] [info] Deleted from disk ms-python.python /home/mulukou/.vscode/extensions/ms-python.python-2020.8.105369

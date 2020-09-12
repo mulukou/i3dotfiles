@@ -1,0 +1,19 @@
+[2020-09-04 23:12:13.227] [renderer1] [error] Cannot read property 'getCell' of undefined: TypeError: Cannot read property 'getCell' of undefined
+    at Object.t.convertLinkRangeToBuffer (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3451:362)
+    at g._provideLinks (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:4446:537)
+    at g.provideLinks (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3450:508)
+    at /opt/visual-studio-code/resources/app/node_modules.asar/xterm/lib/xterm.js:1:243514
+    at Array.forEach (<anonymous>)
+    at t._askForLink (/opt/visual-studio-code/resources/app/node_modules.asar/xterm/lib/xterm.js:1:243376)
+    at t._onHover (/opt/visual-studio-code/resources/app/node_modules.asar/xterm/lib/xterm.js:1:243071)
+    at t._onMouseMove (/opt/visual-studio-code/resources/app/node_modules.asar/xterm/lib/xterm.js:1:242931)
+[2020-09-04 23:38:55.040] [renderer1] [error] Cannot read property 'getCell' of undefined: TypeError: Cannot read property 'getCell' of undefined
+    at Object.t.convertLinkRangeToBuffer (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3451:362)
+    at g._provideLinks (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:4446:537)
+    at g.provideLinks (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3450:508)
+    at /opt/visual-studio-code/resources/app/node_modules.asar/xterm/lib/xterm.js:1:243514
+    at Array.forEach (<anonymous>)
+    at t._askForLink (/opt/visual-studio-code/resources/app/node_modules.asar/xterm/lib/xterm.js:1:243376)
+    at t._onHover (/opt/visual-studio-code/resources/app/node_modules.asar/xterm/lib/xterm.js:1:243071)
+    at t._onMouseMove (/opt/visual-studio-code/resources/app/node_modules.asar/xterm/lib/xterm.js:1:242931)
+[2020-09-05 00:10:31.681] [renderer1] [warning] UNRESPONSIVE extension host, 'ms-vsliveshare.vsliveshare' took 99% of 772.865ms, saved PROFILE here: '/tmp/exthost-e50e59.cpuprofile' [{"id":"ms-vsliveshare.vsliveshare","total":765542,"percentage":99},{"id":"program","total":5498,"percentage":1},{"id":"self","total":539,"percentage":0}]

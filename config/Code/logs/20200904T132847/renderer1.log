@@ -1,0 +1,303 @@
+[2020-09-04 15:53:10.311] [renderer1] [error] Error: file:///home/mulukou/Projects/bots-web-service/src/logging.ts has changed in the meantime
+    at v._validateBeforePrepare (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3551:623)
+    at v.apply (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3552:432)
+    at f._performTextEdits (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:6271:118)
+    at f.perform (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:6270:632)
+    at S.apply (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:6272:11)
+    at e.$tryApplyWorkspaceEdit (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:5952:335)
+    at p._doInvokeHandler (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:4346:599)
+    at p._invokeHandler (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:4346:291)
+    at p._receiveRequest (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:4344:953)
+    at p._receiveOneMessage (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:4343:754)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:4341:914
+    at c.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:95:801)
+    at fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:434:97)
+    at t.PersistentProtocol._receiveMessage (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:438:545)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:435:635
+    at c.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:95:801)
+    at g.acceptChunk (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:431:445)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:430:796
+    at Socket.t (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:440:185)
+    at Socket.emit (events.js:203:13)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:276:11)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17)
+[2020-09-04 15:53:10.489] [renderer1] [error] Error: file:///home/mulukou/Projects/bots-web-service/src/logging.ts has changed in the meantime
+    at v.apply (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3552:552)
+    at async f._performTextEdits (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:6271:110)
+    at async f.perform (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:6270:621)
+[2020-09-04 15:53:12.066] [renderer1] [error] Error: file:///home/mulukou/Projects/bots-web-service/src/logging.ts has changed in the meantime
+    at v.apply (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3552:552)
+    at async f._performTextEdits (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:6271:110)
+    at async f.perform (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:6270:621)
+[2020-09-04 15:53:12.173] [renderer1] [error] Error: file:///home/mulukou/Projects/bots-web-service/src/logging.ts has changed in the meantime
+    at v._validateBeforePrepare (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3551:623)
+    at v.apply (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3552:432)
+    at f._performTextEdits (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:6271:118)
+    at f.perform (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:6270:632)
+    at S.apply (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:6272:11)
+    at e.$tryApplyWorkspaceEdit (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:5952:335)
+    at p._doInvokeHandler (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:4346:599)
+    at p._invokeHandler (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:4346:291)
+    at p._receiveRequest (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:4344:953)
+    at p._receiveOneMessage (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:4343:754)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:4341:914
+    at c.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:95:801)
+    at fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:434:97)
+    at t.PersistentProtocol._receiveMessage (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:438:545)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:435:635
+    at c.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:95:801)
+    at g.acceptChunk (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:431:445)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:430:796
+    at Socket.t (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:440:185)
+    at Socket.emit (events.js:203:13)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:276:11)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17)
+[2020-09-04 15:53:18.032] [renderer1] [error] Error: file:///home/mulukou/Projects/bots-web-service/src/logging.ts has changed in the meantime
+    at v._validateBeforePrepare (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3551:623)
+    at v.apply (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3552:432)
+    at f._performTextEdits (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:6271:118)
+    at f.perform (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:6270:632)
+    at S.apply (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:6272:11)
+    at e.$tryApplyWorkspaceEdit (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:5952:335)
+    at p._doInvokeHandler (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:4346:599)
+    at p._invokeHandler (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:4346:291)
+    at p._receiveRequest (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:4344:953)
+    at p._receiveOneMessage (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:4343:754)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:4341:914
+    at c.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:95:801)
+    at fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:434:97)
+    at t.PersistentProtocol._receiveMessage (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:438:545)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:435:635
+    at c.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:95:801)
+    at g.acceptChunk (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:431:445)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:430:796
+    at Socket.t (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:440:185)
+    at Socket.emit (events.js:203:13)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:276:11)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17)
+[2020-09-04 15:55:36.951] [renderer1] [error] Error: file:///home/mulukou/Projects/bots-web-service/src/logging.ts has changed in the meantime
+    at v._validateBeforePrepare (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3551:623)
+    at v.apply (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3552:432)
+    at f._performTextEdits (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:6271:118)
+    at f.perform (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:6270:632)
+    at S.apply (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:6272:11)
+    at e.$tryApplyWorkspaceEdit (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:5952:335)
+    at p._doInvokeHandler (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:4346:599)
+    at p._invokeHandler (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:4346:291)
+    at p._receiveRequest (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:4344:953)
+    at p._receiveOneMessage (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:4343:754)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:4341:914
+    at c.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:95:801)
+    at fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:434:97)
+    at t.PersistentProtocol._receiveMessage (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:438:545)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:435:635
+    at c.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:95:801)
+    at g.acceptChunk (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:431:445)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:430:796
+    at Socket.t (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:440:185)
+    at Socket.emit (events.js:203:13)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:276:11)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17)
+[2020-09-04 16:23:25.611] [renderer1] [info] Setting search error: XHR timeout: 5000ms
+[2020-09-04 16:23:25.655] [renderer1] [info] Setting search error: XHR timeout: 5000ms
+[2020-09-04 16:25:35.266] [renderer1] [info] Setting search error: XHR timeout: 5000ms
+[2020-09-04 16:25:35.267] [renderer1] [info] Setting search error: XHR timeout: 5000ms
+[2020-09-04 16:25:40.307] [renderer1] [info] Setting search error: XHR timeout: 5000ms
+[2020-09-04 16:25:40.350] [renderer1] [info] Setting search error: XHR timeout: 5000ms
+[2020-09-04 16:26:01.693] [renderer1] [info] Setting search error: XHR timeout: 5000ms
+[2020-09-04 16:26:01.694] [renderer1] [info] Setting search error: XHR timeout: 5000ms
+[2020-09-04 16:26:06.695] [renderer1] [info] Setting search error: XHR timeout: 5000ms
+[2020-09-04 16:26:06.742] [renderer1] [info] Setting search error: XHR timeout: 5000ms
+[2020-09-04 16:31:09.139] [renderer1] [info] Setting search error: XHR timeout: 5000ms
+[2020-09-04 16:31:09.140] [renderer1] [info] Setting search error: XHR timeout: 5000ms
+[2020-09-04 16:31:14.141] [renderer1] [info] Setting search error: XHR timeout: 5000ms
+[2020-09-04 16:31:14.142] [renderer1] [info] Setting search error: XHR timeout: 5000ms
+[2020-09-04 16:31:42.230] [renderer1] [info] Setting search error: XHR timeout: 5000ms
+[2020-09-04 16:31:42.231] [renderer1] [info] Setting search error: XHR timeout: 5000ms
+[2020-09-04 16:31:47.232] [renderer1] [info] Setting search error: XHR timeout: 5000ms
+[2020-09-04 16:31:47.265] [renderer1] [info] Setting search error: XHR timeout: 5000ms
+[2020-09-04 16:34:37.001] [renderer1] [info] Setting search error: XHR timeout: 5000ms
+[2020-09-04 16:34:37.049] [renderer1] [info] Setting search error: XHR timeout: 5000ms
+[2020-09-04 16:39:30.053] [renderer1] [info] Setting search error: XHR timeout: 5000ms
+[2020-09-04 16:39:30.054] [renderer1] [info] Setting search error: XHR timeout: 5000ms
+[2020-09-04 16:39:35.246] [renderer1] [info] Setting search error: XHR timeout: 5000ms
+[2020-09-04 16:39:35.248] [renderer1] [info] Setting search error: XHR timeout: 5000ms
+[2020-09-04 16:39:40.249] [renderer1] [info] Setting search error: XHR timeout: 5000ms
+[2020-09-04 16:39:40.250] [renderer1] [info] Setting search error: XHR timeout: 5000ms
+[2020-09-04 16:39:45.252] [renderer1] [info] Setting search error: XHR timeout: 5000ms
+[2020-09-04 16:39:45.252] [renderer1] [info] Setting search error: XHR timeout: 5000ms
+[2020-09-04 16:39:50.254] [renderer1] [info] Setting search error: XHR timeout: 5000ms
+[2020-09-04 16:39:50.333] [renderer1] [info] Setting search error: XHR timeout: 5000ms
+[2020-09-04 17:59:31.784] [renderer1] [error] Cannot read property 'getCell' of undefined: TypeError: Cannot read property 'getCell' of undefined
+    at Object.t.convertLinkRangeToBuffer (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3451:362)
+    at g._provideLinks (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:4446:537)
+    at async g.provideLinks (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3450:497)
+[2020-09-04 17:59:34.065] [renderer1] [error] Cannot read property 'getCell' of undefined: TypeError: Cannot read property 'getCell' of undefined
+    at Object.t.convertLinkRangeToBuffer (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3451:362)
+    at g._provideLinks (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:4446:537)
+    at async g.provideLinks (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3450:497)
+[2020-09-04 17:59:40.021] [renderer1] [error] Cannot read property 'getCell' of undefined: TypeError: Cannot read property 'getCell' of undefined
+    at Object.t.convertLinkRangeToBuffer (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3451:362)
+    at g._provideLinks (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:4446:537)
+    at async g.provideLinks (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3450:497)
+[2020-09-04 18:05:28.516] [renderer1] [error] Cannot read property 'getCell' of undefined: TypeError: Cannot read property 'getCell' of undefined
+    at Object.t.convertLinkRangeToBuffer (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3451:362)
+    at g._provideLinks (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:4446:537)
+    at g.provideLinks (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3450:508)
+    at /opt/visual-studio-code/resources/app/node_modules.asar/xterm/lib/xterm.js:1:243514
+    at Array.forEach (<anonymous>)
+    at t._askForLink (/opt/visual-studio-code/resources/app/node_modules.asar/xterm/lib/xterm.js:1:243376)
+    at t._onHover (/opt/visual-studio-code/resources/app/node_modules.asar/xterm/lib/xterm.js:1:243071)
+    at t._onMouseMove (/opt/visual-studio-code/resources/app/node_modules.asar/xterm/lib/xterm.js:1:242931)
+[2020-09-04 18:05:32.081] [renderer1] [error] Cannot read property 'getCell' of undefined: TypeError: Cannot read property 'getCell' of undefined
+    at Object.t.convertLinkRangeToBuffer (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3451:362)
+    at g._provideLinks (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:4446:537)
+    at g.provideLinks (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3450:508)
+    at /opt/visual-studio-code/resources/app/node_modules.asar/xterm/lib/xterm.js:1:243514
+    at Array.forEach (<anonymous>)
+    at t._askForLink (/opt/visual-studio-code/resources/app/node_modules.asar/xterm/lib/xterm.js:1:243376)
+    at t._onHover (/opt/visual-studio-code/resources/app/node_modules.asar/xterm/lib/xterm.js:1:243071)
+    at t._onMouseMove (/opt/visual-studio-code/resources/app/node_modules.asar/xterm/lib/xterm.js:1:242931)
+[2020-09-04 18:21:14.833] [renderer1] [error] Cannot read property 'getCell' of undefined: TypeError: Cannot read property 'getCell' of undefined
+    at Object.t.convertLinkRangeToBuffer (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3451:362)
+    at g._provideLinks (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:4446:537)
+    at g.provideLinks (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3450:508)
+    at /opt/visual-studio-code/resources/app/node_modules.asar/xterm/lib/xterm.js:1:243514
+    at Array.forEach (<anonymous>)
+    at t._askForLink (/opt/visual-studio-code/resources/app/node_modules.asar/xterm/lib/xterm.js:1:243376)
+    at t._onHover (/opt/visual-studio-code/resources/app/node_modules.asar/xterm/lib/xterm.js:1:243071)
+    at t._onMouseMove (/opt/visual-studio-code/resources/app/node_modules.asar/xterm/lib/xterm.js:1:242931)
+[2020-09-04 18:23:53.633] [renderer1] [error] Cannot read property 'getCell' of undefined: TypeError: Cannot read property 'getCell' of undefined
+    at Object.t.convertLinkRangeToBuffer (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3451:362)
+    at g._provideLinks (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:4446:537)
+    at g.provideLinks (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3450:508)
+    at /opt/visual-studio-code/resources/app/node_modules.asar/xterm/lib/xterm.js:1:243514
+    at Array.forEach (<anonymous>)
+    at t._askForLink (/opt/visual-studio-code/resources/app/node_modules.asar/xterm/lib/xterm.js:1:243376)
+    at t._onHover (/opt/visual-studio-code/resources/app/node_modules.asar/xterm/lib/xterm.js:1:243071)
+    at t._onMouseMove (/opt/visual-studio-code/resources/app/node_modules.asar/xterm/lib/xterm.js:1:242931)
+[2020-09-04 18:29:58.878] [renderer1] [warning] UNRESPONSIVE extension host, 'icrawl.discord-vscode' took 100% of 1780.142ms, saved PROFILE here: '/tmp/exthost-dcd428.cpuprofile' [{"id":"icrawl.discord-vscode","total":1774822,"percentage":100},{"id":"ms-vsliveshare.vsliveshare","total":3845,"percentage":0},{"id":"program","total":976,"percentage":0},{"id":"self","total":352,"percentage":0}]
+[2020-09-04 18:43:30.695] [renderer1] [error] Cannot read property 'getCell' of undefined: TypeError: Cannot read property 'getCell' of undefined
+    at Object.t.convertLinkRangeToBuffer (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3451:362)
+    at g._provideLinks (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:4446:537)
+    at g.provideLinks (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3450:508)
+    at /opt/visual-studio-code/resources/app/node_modules.asar/xterm/lib/xterm.js:1:243514
+    at Array.forEach (<anonymous>)
+    at t._askForLink (/opt/visual-studio-code/resources/app/node_modules.asar/xterm/lib/xterm.js:1:243376)
+    at t._onHover (/opt/visual-studio-code/resources/app/node_modules.asar/xterm/lib/xterm.js:1:243071)
+    at t._onMouseMove (/opt/visual-studio-code/resources/app/node_modules.asar/xterm/lib/xterm.js:1:242931)
+[2020-09-04 18:43:35.994] [renderer1] [error] Cannot read property 'getCell' of undefined: TypeError: Cannot read property 'getCell' of undefined
+    at Object.t.convertLinkRangeToBuffer (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3451:362)
+    at g._provideLinks (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:4446:537)
+    at g.provideLinks (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3450:508)
+    at /opt/visual-studio-code/resources/app/node_modules.asar/xterm/lib/xterm.js:1:243514
+    at Array.forEach (<anonymous>)
+    at t._askForLink (/opt/visual-studio-code/resources/app/node_modules.asar/xterm/lib/xterm.js:1:243376)
+    at t._onHover (/opt/visual-studio-code/resources/app/node_modules.asar/xterm/lib/xterm.js:1:243071)
+    at t._onMouseMove (/opt/visual-studio-code/resources/app/node_modules.asar/xterm/lib/xterm.js:1:242931)
+[2020-09-04 18:43:37.099] [renderer1] [error] Cannot read property 'getCell' of undefined: TypeError: Cannot read property 'getCell' of undefined
+    at Object.t.convertLinkRangeToBuffer (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3451:362)
+    at g._provideLinks (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:4446:537)
+    at g.provideLinks (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3450:508)
+    at /opt/visual-studio-code/resources/app/node_modules.asar/xterm/lib/xterm.js:1:243514
+    at Array.forEach (<anonymous>)
+    at t._askForLink (/opt/visual-studio-code/resources/app/node_modules.asar/xterm/lib/xterm.js:1:243376)
+    at t._onHover (/opt/visual-studio-code/resources/app/node_modules.asar/xterm/lib/xterm.js:1:243071)
+    at t._onMouseMove (/opt/visual-studio-code/resources/app/node_modules.asar/xterm/lib/xterm.js:1:242931)
+[2020-09-04 18:43:37.182] [renderer1] [error] Cannot read property 'getCell' of undefined: TypeError: Cannot read property 'getCell' of undefined
+    at Object.t.convertLinkRangeToBuffer (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3451:362)
+    at g._provideLinks (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:4446:537)
+    at async g.provideLinks (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3450:497)
+[2020-09-04 18:43:39.280] [renderer1] [error] Cannot read property 'getCell' of undefined: TypeError: Cannot read property 'getCell' of undefined
+    at Object.t.convertLinkRangeToBuffer (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3451:362)
+    at g._provideLinks (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:4446:537)
+    at async g.provideLinks (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3450:497)
+[2020-09-04 18:43:39.296] [renderer1] [error] Cannot read property 'getCell' of undefined: TypeError: Cannot read property 'getCell' of undefined
+    at Object.t.convertLinkRangeToBuffer (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3451:362)
+    at g._provideLinks (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:4446:537)
+    at g.provideLinks (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3450:508)
+    at /opt/visual-studio-code/resources/app/node_modules.asar/xterm/lib/xterm.js:1:243514
+    at Array.forEach (<anonymous>)
+    at t._askForLink (/opt/visual-studio-code/resources/app/node_modules.asar/xterm/lib/xterm.js:1:243376)
+    at t._onHover (/opt/visual-studio-code/resources/app/node_modules.asar/xterm/lib/xterm.js:1:243071)
+    at t._onMouseMove (/opt/visual-studio-code/resources/app/node_modules.asar/xterm/lib/xterm.js:1:242931)
+[2020-09-04 18:43:52.468] [renderer1] [error] Cannot read property 'getCell' of undefined: TypeError: Cannot read property 'getCell' of undefined
+    at Object.t.convertLinkRangeToBuffer (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3451:362)
+    at g._provideLinks (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:4446:537)
+    at g.provideLinks (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3450:508)
+    at /opt/visual-studio-code/resources/app/node_modules.asar/xterm/lib/xterm.js:1:243514
+    at Array.forEach (<anonymous>)
+    at t._askForLink (/opt/visual-studio-code/resources/app/node_modules.asar/xterm/lib/xterm.js:1:243376)
+    at t._onHover (/opt/visual-studio-code/resources/app/node_modules.asar/xterm/lib/xterm.js:1:243071)
+    at t._onMouseMove (/opt/visual-studio-code/resources/app/node_modules.asar/xterm/lib/xterm.js:1:242931)
+[2020-09-04 19:02:05.970] [renderer1] [error] Cannot read property 'getCell' of undefined: TypeError: Cannot read property 'getCell' of undefined
+    at Object.t.convertLinkRangeToBuffer (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3451:362)
+    at g._provideLinks (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:4446:537)
+    at g.provideLinks (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3450:508)
+    at /opt/visual-studio-code/resources/app/node_modules.asar/xterm/lib/xterm.js:1:243514
+    at Array.forEach (<anonymous>)
+    at t._askForLink (/opt/visual-studio-code/resources/app/node_modules.asar/xterm/lib/xterm.js:1:243376)
+    at t._onHover (/opt/visual-studio-code/resources/app/node_modules.asar/xterm/lib/xterm.js:1:243071)
+    at t._onMouseMove (/opt/visual-studio-code/resources/app/node_modules.asar/xterm/lib/xterm.js:1:242931)
+[2020-09-04 19:36:31.527] [renderer1] [error] Cannot read property 'getCell' of undefined: TypeError: Cannot read property 'getCell' of undefined
+    at Object.t.convertLinkRangeToBuffer (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3451:362)
+    at g._provideLinks (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:4446:537)
+    at g.provideLinks (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3450:508)
+    at /opt/visual-studio-code/resources/app/node_modules.asar/xterm/lib/xterm.js:1:243514
+    at Array.forEach (<anonymous>)
+    at t._askForLink (/opt/visual-studio-code/resources/app/node_modules.asar/xterm/lib/xterm.js:1:243376)
+    at t._onHover (/opt/visual-studio-code/resources/app/node_modules.asar/xterm/lib/xterm.js:1:243071)
+    at t._onMouseMove (/opt/visual-studio-code/resources/app/node_modules.asar/xterm/lib/xterm.js:1:242931)
+[2020-09-04 19:37:45.112] [renderer1] [error] Cannot read property 'getCell' of undefined: TypeError: Cannot read property 'getCell' of undefined
+    at Object.t.convertLinkRangeToBuffer (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3451:362)
+    at g._provideLinks (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:4446:537)
+    at g.provideLinks (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3450:508)
+    at /opt/visual-studio-code/resources/app/node_modules.asar/xterm/lib/xterm.js:1:243514
+    at Array.forEach (<anonymous>)
+    at t._askForLink (/opt/visual-studio-code/resources/app/node_modules.asar/xterm/lib/xterm.js:1:243376)
+    at t._onHover (/opt/visual-studio-code/resources/app/node_modules.asar/xterm/lib/xterm.js:1:243071)
+    at t._onMouseMove (/opt/visual-studio-code/resources/app/node_modules.asar/xterm/lib/xterm.js:1:242931)
+[2020-09-04 19:40:07.842] [renderer1] [error] Cannot read property 'getCell' of undefined: TypeError: Cannot read property 'getCell' of undefined
+    at Object.t.convertLinkRangeToBuffer (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3451:362)
+    at g._provideLinks (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:4446:537)
+    at g.provideLinks (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3450:508)
+    at /opt/visual-studio-code/resources/app/node_modules.asar/xterm/lib/xterm.js:1:243514
+    at Array.forEach (<anonymous>)
+    at t._askForLink (/opt/visual-studio-code/resources/app/node_modules.asar/xterm/lib/xterm.js:1:243376)
+    at t._onHover (/opt/visual-studio-code/resources/app/node_modules.asar/xterm/lib/xterm.js:1:243071)
+    at t._onMouseMove (/opt/visual-studio-code/resources/app/node_modules.asar/xterm/lib/xterm.js:1:242931)
+[2020-09-04 19:41:49.379] [renderer1] [error] Cannot read property 'getCell' of undefined: TypeError: Cannot read property 'getCell' of undefined
+    at Object.t.convertLinkRangeToBuffer (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3451:362)
+    at g._provideLinks (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:4446:537)
+    at g.provideLinks (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3450:508)
+    at /opt/visual-studio-code/resources/app/node_modules.asar/xterm/lib/xterm.js:1:243514
+    at Array.forEach (<anonymous>)
+    at t._askForLink (/opt/visual-studio-code/resources/app/node_modules.asar/xterm/lib/xterm.js:1:243376)
+    at t._onHover (/opt/visual-studio-code/resources/app/node_modules.asar/xterm/lib/xterm.js:1:243071)
+    at t._onMouseMove (/opt/visual-studio-code/resources/app/node_modules.asar/xterm/lib/xterm.js:1:242931)
+[2020-09-04 19:47:37.116] [renderer1] [error] Cannot read property 'getCell' of undefined: TypeError: Cannot read property 'getCell' of undefined
+    at Object.t.convertLinkRangeToBuffer (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3451:362)
+    at g._provideLinks (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:4446:537)
+    at g.provideLinks (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3450:508)
+    at /opt/visual-studio-code/resources/app/node_modules.asar/xterm/lib/xterm.js:1:243514
+    at Array.forEach (<anonymous>)
+    at t._askForLink (/opt/visual-studio-code/resources/app/node_modules.asar/xterm/lib/xterm.js:1:243376)
+    at t._onHover (/opt/visual-studio-code/resources/app/node_modules.asar/xterm/lib/xterm.js:1:243071)
+    at t._onMouseMove (/opt/visual-studio-code/resources/app/node_modules.asar/xterm/lib/xterm.js:1:242931)
+[2020-09-04 19:57:06.997] [renderer1] [error] Cannot read property 'getCell' of undefined: TypeError: Cannot read property 'getCell' of undefined
+    at Object.t.convertLinkRangeToBuffer (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3451:362)
+    at g._provideLinks (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:4446:537)
+    at g.provideLinks (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3450:508)
+    at /opt/visual-studio-code/resources/app/node_modules.asar/xterm/lib/xterm.js:1:243514
+    at Array.forEach (<anonymous>)
+    at t._askForLink (/opt/visual-studio-code/resources/app/node_modules.asar/xterm/lib/xterm.js:1:243376)
+    at t._onHover (/opt/visual-studio-code/resources/app/node_modules.asar/xterm/lib/xterm.js:1:243071)
+    at t._onMouseMove (/opt/visual-studio-code/resources/app/node_modules.asar/xterm/lib/xterm.js:1:242931)

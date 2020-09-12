@@ -1,0 +1,25 @@
+[Info  - 5:00:03 PM] ESLint server stopped.
+[Info  - 5:00:03 PM] ESLint server running in node v12.14.1
+[Info  - 5:00:03 PM] ESLint server is running.
+[Info  - 5:00:04 PM] ESLint library loaded from: /home/mulukou/Projects/bots-web-service/node_modules/eslint/lib/api.js
+Uncaught exception received.
+Error: spawn /opt/visual-studio-code/code ENOENT
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:264:19)
+    at onErrorNT (internal/child_process.js:456:16)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+Uncaught exception received.
+Error: spawn /opt/visual-studio-code/code ENOENT
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:264:19)
+    at onErrorNT (internal/child_process.js:456:16)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+Uncaught exception received.
+Error: spawn /opt/visual-studio-code/code ENOENT
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:264:19)
+    at onErrorNT (internal/child_process.js:456:16)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+Uncaught exception received.
+Error: spawn /opt/visual-studio-code/code ENOENT
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:264:19)
+    at onErrorNT (internal/child_process.js:456:16)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+[Info  - 6:43:44 PM] ESLint server stopped.

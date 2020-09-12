@@ -1,0 +1,145 @@
+[2020-09-11 15:06:54.241] [exthost] [info] extension host started
+[2020-09-11 15:06:54.569] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication {"startup":false,"extensionId":{"value":"vscode.microsoft-authentication","_lower":"vscode.microsoft-authentication"},"activationEvent":"onAuthenticationRequest:microsoft"}
+[2020-09-11 15:06:54.569] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/microsoft-authentication/dist/extension.js
+[2020-09-11 15:06:54.592] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication {"startup":false,"extensionId":{"value":"vscode.github-authentication","_lower":"vscode.github-authentication"},"activationEvent":"onAuthenticationRequest:github"}
+[2020-09-11 15:06:54.592] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/github-authentication/dist/extension.js
+[2020-09-11 15:06:54.605] [exthost] [info] ExtensionService#_doActivateExtension mechatroner.rainbow-csv {"startup":false,"extensionId":{"value":"mechatroner.rainbow-csv","_lower":"mechatroner.rainbow-csv"},"activationEvent":"onLanguage:plaintext"}
+[2020-09-11 15:06:54.605] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/mulukou/.vscode/extensions/mechatroner.rainbow-csv-1.7.1/extension
+[2020-09-11 15:06:54.609] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing {"startup":false,"extensionId":{"value":"vscode.extension-editing","_lower":"vscode.extension-editing"},"activationEvent":"onLanguage:typescript"}
+[2020-09-11 15:06:54.609] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/extension-editing/dist/extensionEditingMain
+[2020-09-11 15:06:54.618] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"extensionId":{"value":"vscode.typescript-language-features","_lower":"vscode.typescript-language-features"},"activationEvent":"onLanguage:typescript"}
+[2020-09-11 15:06:54.618] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/extension
+[2020-09-11 15:06:54.639] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"extensionId":{"value":"vscode.configuration-editing","_lower":"vscode.configuration-editing"},"activationEvent":"onLanguage:json"}
+[2020-09-11 15:06:54.639] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/configuration-editing/dist/configurationEditingMain
+[2020-09-11 15:06:54.645] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"extensionId":{"value":"vscode.json-language-features","_lower":"vscode.json-language-features"},"activationEvent":"onLanguage:json"}
+[2020-09-11 15:06:54.645] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/json-language-features/client/dist/node/jsonClientMain
+[2020-09-11 15:06:54.672] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug {"startup":false,"extensionId":{"value":"ms-vscode.js-debug","_lower":"ms-vscode.js-debug"},"activationEvent":"onLanguage:json"}
+[2020-09-11 15:06:54.672] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/ms-vscode.js-debug/src/extension.js
+[2020-09-11 15:06:54.879] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm {"startup":false,"extensionId":{"value":"vscode.npm","_lower":"vscode.npm"},"activationEvent":"onLanguage:json"}
+[2020-09-11 15:06:54.880] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/npm/dist/npmMain
+[2020-09-11 15:06:54.888] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2020-09-11 15:06:54.888] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/debug-auto-launch/dist/extension
+[2020-09-11 15:06:54.890] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"*"}
+[2020-09-11 15:06:54.890] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/emmet/dist/node/emmetNodeMain
+[2020-09-11 15:06:54.911] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2020-09-11 15:06:54.911] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/git/dist/main
+[2020-09-11 15:06:54.949] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"*"}
+[2020-09-11 15:06:54.949] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/merge-conflict/dist/mergeConflictMain
+[2020-09-11 15:06:54.952] [exthost] [info] ExtensionService#_doActivateExtension vscode.search-result {"startup":true,"extensionId":{"value":"vscode.search-result","_lower":"vscode.search-result"},"activationEvent":"*"}
+[2020-09-11 15:06:54.952] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/search-result/dist/extension.js
+[2020-09-11 15:06:54.954] [exthost] [info] ExtensionService#_doActivateExtension CoenraadS.bracket-pair-colorizer {"startup":true,"extensionId":{"value":"CoenraadS.bracket-pair-colorizer","_lower":"coenraads.bracket-pair-colorizer"},"activationEvent":"*"}
+[2020-09-11 15:06:54.954] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/mulukou/.vscode/extensions/coenraads.bracket-pair-colorizer-1.0.61/out/src/extension
+[2020-09-11 15:06:54.972] [exthost] [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint {"startup":true,"extensionId":{"value":"dbaeumer.vscode-eslint","_lower":"dbaeumer.vscode-eslint"},"activationEvent":"*"}
+[2020-09-11 15:06:54.972] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/mulukou/.vscode/extensions/dbaeumer.vscode-eslint-2.1.8/client/out/extension
+[2020-09-11 15:06:54.996] [exthost] [info] ExtensionService#_doActivateExtension icrawl.discord-vscode {"startup":true,"extensionId":{"value":"icrawl.discord-vscode","_lower":"icrawl.discord-vscode"},"activationEvent":"*"}
+[2020-09-11 15:06:54.996] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/mulukou/.vscode/extensions/icrawl.discord-vscode-4.0.0/dist/extension
+[2020-09-11 15:06:55.012] [exthost] [info] ExtensionService#_doActivateExtension ms-vsliveshare.vsliveshare {"startup":true,"extensionId":{"value":"ms-vsliveshare.vsliveshare","_lower":"ms-vsliveshare.vsliveshare"},"activationEvent":"*"}
+[2020-09-11 15:06:55.012] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/mulukou/.vscode/extensions/ms-vsliveshare.vsliveshare-1.0.2740/out/prod/extension-prod
+[2020-09-11 15:06:55.400] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme {"startup":true,"extensionId":{"value":"PKief.material-icon-theme","_lower":"pkief.material-icon-theme"},"activationEvent":"*"}
+[2020-09-11 15:06:55.400] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/mulukou/.vscode/extensions/pkief.material-icon-theme-4.3.0/dist/extension
+[2020-09-11 15:06:59.603] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":false,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2020-09-11 15:06:59.603] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/github/dist/extension.js
+[2020-09-11 15:07:01.209] [exthost] [info] eager extensions activated
+[2020-09-11 15:07:46.659] [exthost] [info] ExtensionService#_doActivateExtension vscode.grunt {"startup":false,"extensionId":{"value":"vscode.grunt","_lower":"vscode.grunt"},"activationEvent":"onCommand:workbench.action.tasks.runTask"}
+[2020-09-11 15:07:46.659] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/grunt/dist/main
+[2020-09-11 15:07:46.671] [exthost] [info] ExtensionService#_doActivateExtension vscode.gulp {"startup":false,"extensionId":{"value":"vscode.gulp","_lower":"vscode.gulp"},"activationEvent":"onCommand:workbench.action.tasks.runTask"}
+[2020-09-11 15:07:46.671] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/gulp/dist/main
+[2020-09-11 15:07:46.674] [exthost] [info] ExtensionService#_doActivateExtension vscode.jake {"startup":false,"extensionId":{"value":"vscode.jake","_lower":"vscode.jake"},"activationEvent":"onCommand:workbench.action.tasks.runTask"}
+[2020-09-11 15:07:46.674] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/jake/dist/main
+[2020-09-11 15:07:46.684] [exthost] [info] ExtensionService#_doActivateExtension ms-azuretools.vscode-docker {"startup":false,"extensionId":{"value":"ms-azuretools.vscode-docker","_lower":"ms-azuretools.vscode-docker"},"activationEvent":"onCommand:workbench.action.tasks.runTask"}
+[2020-09-11 15:07:46.684] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/mulukou/.vscode/extensions/ms-azuretools.vscode-docker-1.5.0/main
+[2020-09-11 16:39:42.276] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2020-09-11 16:39:42.283] [exthost] [error] Error: <semantic> TypeScript Server Error (4.0.2)
+Cannot read property 'kind' of undefined
+TypeError: Cannot read property 'kind' of undefined
+    at Object.isForInOrOfStatement (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:12161:21)
+    at /opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:131068:27
+    at Object.findAncestor (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:12597:26)
+    at makeChange (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:131067:37)
+    at /opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:131054:96
+    at Function.ChangeTracker.with (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:129418:17)
+    at Object.getCodeActions (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:131054:64)
+    at /opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:130591:77
+    at Object.flatMap (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:513:25)
+    at Object.getFixes (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:130591:23)
+    at /opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:143788:35
+    at Object.flatMap (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:513:25)
+    at Proxy.getCodeFixesAtPosition (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:143786:23)
+    at IOSession.Session.getCodeFixes (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:154654:64)
+    at Session.handlers.ts.Map.ts.getEntries._a.<computed> (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:153331:61)
+    at /opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:154953:88
+    at IOSession.Session.executeWithRequestId (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:154944:28)
+    at IOSession.Session.executeCommand (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:154953:33)
+    at IOSession.Session.onMessage (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:154977:35)
+    at Interface.<anonymous> (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:157193:27)
+    at Interface.emit (events.js:223:5)
+    at Interface._onLine (readline.js:315:10)
+    at Interface._normalWrite (readline.js:460:12)
+    at Socket.ondata (readline.js:172:10)
+    at Socket.emit (events.js:223:5)
+    at addChunk (_stream_readable.js:309:12)
+    at readableAddChunk (_stream_readable.js:290:11)
+    at Socket.Readable.push (_stream_readable.js:224:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:181:23)
+	at Function.create (/opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/extension.js:1:76465)
+	at h.dispatchResponse (/opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/extension.js:1:70340)
+	at h.dispatchMessage (/opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/extension.js:1:69199)
+	at /opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/extension.js:1:68709
+	at l.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:475)
+	at g.onLengthData (/opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/extension.js:45:60018)
+	at Socket.<anonymous> (/opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/extension.js:45:59666)
+	at Socket.emit (events.js:223:5)
+	at addChunk (_stream_readable.js:309:12)
+	at readableAddChunk (_stream_readable.js:290:11)
+	at Socket.Readable.push (_stream_readable.js:224:10)
+	at Pipe.onStreamRead (internal/stream_base_commons.js:181:23)
+[2020-09-11 17:00:00.909] [exthost] [info] extension host started
+[2020-09-11 17:00:01.004] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication {"startup":false,"extensionId":{"value":"vscode.microsoft-authentication","_lower":"vscode.microsoft-authentication"},"activationEvent":"onAuthenticationRequest:microsoft"}
+[2020-09-11 17:00:01.004] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/microsoft-authentication/dist/extension.js
+[2020-09-11 17:00:01.195] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication {"startup":false,"extensionId":{"value":"vscode.github-authentication","_lower":"vscode.github-authentication"},"activationEvent":"onAuthenticationRequest:github"}
+[2020-09-11 17:00:01.195] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/github-authentication/dist/extension.js
+[2020-09-11 17:00:01.256] [exthost] [info] ExtensionService#_doActivateExtension mechatroner.rainbow-csv {"startup":false,"extensionId":{"value":"mechatroner.rainbow-csv","_lower":"mechatroner.rainbow-csv"},"activationEvent":"onLanguage:plaintext"}
+[2020-09-11 17:00:01.257] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/mulukou/.vscode/extensions/mechatroner.rainbow-csv-1.7.1/extension
+[2020-09-11 17:00:01.363] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing {"startup":false,"extensionId":{"value":"vscode.extension-editing","_lower":"vscode.extension-editing"},"activationEvent":"onLanguage:typescript"}
+[2020-09-11 17:00:01.363] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/extension-editing/dist/extensionEditingMain
+[2020-09-11 17:00:01.453] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"extensionId":{"value":"vscode.typescript-language-features","_lower":"vscode.typescript-language-features"},"activationEvent":"onLanguage:typescript"}
+[2020-09-11 17:00:01.453] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/extension
+[2020-09-11 17:00:01.633] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2020-09-11 17:00:01.633] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/debug-auto-launch/dist/extension
+[2020-09-11 17:00:01.687] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"*"}
+[2020-09-11 17:00:01.687] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/emmet/dist/node/emmetNodeMain
+[2020-09-11 17:00:01.775] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2020-09-11 17:00:01.775] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/git/dist/main
+[2020-09-11 17:00:01.879] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"*"}
+[2020-09-11 17:00:01.879] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/merge-conflict/dist/mergeConflictMain
+[2020-09-11 17:00:01.894] [exthost] [info] ExtensionService#_doActivateExtension vscode.search-result {"startup":true,"extensionId":{"value":"vscode.search-result","_lower":"vscode.search-result"},"activationEvent":"*"}
+[2020-09-11 17:00:01.894] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/search-result/dist/extension.js
+[2020-09-11 17:00:01.919] [exthost] [info] ExtensionService#_doActivateExtension CoenraadS.bracket-pair-colorizer {"startup":true,"extensionId":{"value":"CoenraadS.bracket-pair-colorizer","_lower":"coenraads.bracket-pair-colorizer"},"activationEvent":"*"}
+[2020-09-11 17:00:01.920] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/mulukou/.vscode/extensions/coenraads.bracket-pair-colorizer-1.0.61/out/src/extension
+[2020-09-11 17:00:02.464] [exthost] [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint {"startup":true,"extensionId":{"value":"dbaeumer.vscode-eslint","_lower":"dbaeumer.vscode-eslint"},"activationEvent":"*"}
+[2020-09-11 17:00:02.464] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/mulukou/.vscode/extensions/dbaeumer.vscode-eslint-2.1.8/client/out/extension
+[2020-09-11 17:00:02.520] [exthost] [info] ExtensionService#_doActivateExtension icrawl.discord-vscode {"startup":true,"extensionId":{"value":"icrawl.discord-vscode","_lower":"icrawl.discord-vscode"},"activationEvent":"*"}
+[2020-09-11 17:00:02.520] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/mulukou/.vscode/extensions/icrawl.discord-vscode-4.0.0/dist/extension
+[2020-09-11 17:00:02.546] [exthost] [info] ExtensionService#_doActivateExtension ms-vsliveshare.vsliveshare {"startup":true,"extensionId":{"value":"ms-vsliveshare.vsliveshare","_lower":"ms-vsliveshare.vsliveshare"},"activationEvent":"*"}
+[2020-09-11 17:00:02.546] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/mulukou/.vscode/extensions/ms-vsliveshare.vsliveshare-1.0.2740/out/prod/extension-prod
+[2020-09-11 17:00:03.461] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme {"startup":true,"extensionId":{"value":"PKief.material-icon-theme","_lower":"pkief.material-icon-theme"},"activationEvent":"*"}
+[2020-09-11 17:00:03.461] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/mulukou/.vscode/extensions/pkief.material-icon-theme-4.3.0/dist/extension
+[2020-09-11 17:00:03.472] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm {"startup":true,"extensionId":{"value":"vscode.npm","_lower":"vscode.npm"},"activationEvent":"workspaceContains:package.json"}
+[2020-09-11 17:00:03.472] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/npm/dist/npmMain
+[2020-09-11 17:00:12.678] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2020-09-11 17:00:12.678] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/github/dist/extension.js
+[2020-09-11 17:00:12.867] [exthost] [info] eager extensions activated
+[2020-09-11 17:00:15.473] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"extensionId":{"value":"vscode.configuration-editing","_lower":"vscode.configuration-editing"},"activationEvent":"onLanguage:jsonc"}
+[2020-09-11 17:00:15.473] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/configuration-editing/dist/configurationEditingMain
+[2020-09-11 17:00:15.478] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"extensionId":{"value":"vscode.json-language-features","_lower":"vscode.json-language-features"},"activationEvent":"onLanguage:jsonc"}
+[2020-09-11 17:00:15.478] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/json-language-features/client/dist/node/jsonClientMain
+[2020-09-11 17:04:44.247] [exthost] [info] ExtensionService#_doActivateExtension vscode.grunt {"startup":false,"extensionId":{"value":"vscode.grunt","_lower":"vscode.grunt"},"activationEvent":"onCommand:workbench.action.tasks.runTask"}
+[2020-09-11 17:04:44.248] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/grunt/dist/main
+[2020-09-11 17:04:44.258] [exthost] [info] ExtensionService#_doActivateExtension vscode.gulp {"startup":false,"extensionId":{"value":"vscode.gulp","_lower":"vscode.gulp"},"activationEvent":"onCommand:workbench.action.tasks.runTask"}
+[2020-09-11 17:04:44.258] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/gulp/dist/main
+[2020-09-11 17:04:44.261] [exthost] [info] ExtensionService#_doActivateExtension vscode.jake {"startup":false,"extensionId":{"value":"vscode.jake","_lower":"vscode.jake"},"activationEvent":"onCommand:workbench.action.tasks.runTask"}
+[2020-09-11 17:04:44.261] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/jake/dist/main
+[2020-09-11 17:04:44.274] [exthost] [info] ExtensionService#_doActivateExtension ms-azuretools.vscode-docker {"startup":false,"extensionId":{"value":"ms-azuretools.vscode-docker","_lower":"ms-azuretools.vscode-docker"},"activationEvent":"onCommand:workbench.action.tasks.runTask"}
+[2020-09-11 17:04:44.274] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/mulukou/.vscode/extensions/ms-azuretools.vscode-docker-1.5.0/main
+[2020-09-11 17:04:45.978] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug {"startup":false,"extensionId":{"value":"ms-vscode.js-debug","_lower":"ms-vscode.js-debug"},"activationEvent":"onLanguage:json"}
+[2020-09-11 17:04:45.978] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/ms-vscode.js-debug/src/extension.js

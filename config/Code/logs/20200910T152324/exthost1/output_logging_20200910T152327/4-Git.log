@@ -1,0 +1,1798 @@
+Looking for git in: git
+Using git 2.28.0 from git
+> git rev-parse --git-dir
+Open repository: /home/mulukou/Projects/bots-web-service
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse bot/sindat
+> git rev-parse --symbolic-full-name bot/sindat@{u}
+fatal: no upstream configured for branch 'bot/sindat'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/logging.ts
+> git ls-files --stage -- /home/mulukou/Projects/bots-web-service/src/logging.ts
+> git check-ignore -v -z --stdin
+> git config --global user.email
+> git config --global user.name
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse bot/sindat
+> git rev-parse --symbolic-full-name bot/sindat@{u}
+fatal: no upstream configured for branch 'bot/sindat'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show -s --format=%an <%ae> [%ai] a92c1522fe4b94ffc1a3254a0b2b941843c94b78
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z a92c1522fe4b94ffc1a3254a0b2b941843c94b78
+> git show -s --format=%an <%ae> [%ai] 1ac98bf65702a136fb51ae95d7c7b822abb8a84d
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z 1ac98bf65702a136fb51ae95d7c7b822abb8a84d
+> git show -s --format=%an <%ae> [%ai] acf1d8db6c9fd44e5286b1edbfb061a105f7d25c
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z acf1d8db6c9fd44e5286b1edbfb061a105f7d25c
+> git show -s --format=%an <%ae> [%ai] b88cbbdfc9860a2dfd051139e56a6ba121058155
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z b88cbbdfc9860a2dfd051139e56a6ba121058155
+> git show -s --format=%an <%ae> [%ai] f9a9ead762bf8033b5d11428f0e9841988690c70
+> git show -s --format=%an <%ae> [%ai] 5d77e73c0174377eed4a29f15c9d453f54d2f1c4
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z f9a9ead762bf8033b5d11428f0e9841988690c70
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z 5d77e73c0174377eed4a29f15c9d453f54d2f1c4
+> git show -s --format=%an <%ae> [%ai] a41535f3c311daa8b9e1f9c926c3d688a74d3bbd
+> git show -s --format=%an <%ae> [%ai] a86c1275a8d1993c7e45a5a9245782184258c757
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z a41535f3c311daa8b9e1f9c926c3d688a74d3bbd
+> git show -s --format=%an <%ae> [%ai] a86c1275a8d1993c7e45a5a9245782184258c757
+> git show -s --format=%an <%ae> [%ai] 2434c03871f5531e859aae0c5c54a4753344f889
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z a86c1275a8d1993c7e45a5a9245782184258c757
+> git show -s --format=%an <%ae> [%ai] 73f1920981fe00d81da68521e00562d8e6616c4e
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z a86c1275a8d1993c7e45a5a9245782184258c757
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z 73f1920981fe00d81da68521e00562d8e6616c4e
+> git show -s --format=%an <%ae> [%ai] d8f75f02db1fb1418d4c21a471f8257721a83891
+> git show -s --format=%an <%ae> [%ai] a46fcffc80c1d6d95e1e20f083706f7e49d59dad
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z 2434c03871f5531e859aae0c5c54a4753344f889
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z a46fcffc80c1d6d95e1e20f083706f7e49d59dad
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z d8f75f02db1fb1418d4c21a471f8257721a83891
+> git show -s --format=%an <%ae> [%ai] 1821e1d834714cfe648a2286467a481630c8ba07
+> git show -s --format=%an <%ae> [%ai] d8f75f02db1fb1418d4c21a471f8257721a83891
+> git show -s --format=%an <%ae> [%ai] a46fcffc80c1d6d95e1e20f083706f7e49d59dad
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z a46fcffc80c1d6d95e1e20f083706f7e49d59dad
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z d8f75f02db1fb1418d4c21a471f8257721a83891
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z 1821e1d834714cfe648a2286467a481630c8ba07
+> git show -s --format=%an <%ae> [%ai] 52ec73dc7f6c5e742dcb83f8a48de200f1ce5b5f
+> git show -s --format=%an <%ae> [%ai] b030e80281bcf57ef790f41d5d6a8c680257da32
+> git show -s --format=%an <%ae> [%ai] 66f9e2298639c6d74740f2dc82d97b8e966bbd6e
+> git show -s --format=%an <%ae> [%ai] a86c1275a8d1993c7e45a5a9245782184258c757
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z 66f9e2298639c6d74740f2dc82d97b8e966bbd6e
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z b030e80281bcf57ef790f41d5d6a8c680257da32
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z 52ec73dc7f6c5e742dcb83f8a48de200f1ce5b5f
+> git show -s --format=%an <%ae> [%ai] 3086134d5f88b05760656387f1c481d3a014ea24
+> git show -s --format=%an <%ae> [%ai] 52ec73dc7f6c5e742dcb83f8a48de200f1ce5b5f
+> git show -s --format=%an <%ae> [%ai] b030e80281bcf57ef790f41d5d6a8c680257da32
+> git show -s --format=%an <%ae> [%ai] 66f9e2298639c6d74740f2dc82d97b8e966bbd6e
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z b030e80281bcf57ef790f41d5d6a8c680257da32
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z 52ec73dc7f6c5e742dcb83f8a48de200f1ce5b5f
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z 3086134d5f88b05760656387f1c481d3a014ea24
+> git show -s --format=%an <%ae> [%ai] a384b1a3ac00cb6351d2299de005898bc07e8731
+> git show -s --format=%an <%ae> [%ai] cf878695557c9fa005c7cad589a8a2faeaedcd73
+> git show -s --format=%an <%ae> [%ai] 52ec73dc7f6c5e742dcb83f8a48de200f1ce5b5f
+> git show -s --format=%an <%ae> [%ai] c147fdd21a009847e7193c189254035f138e8e45
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z a86c1275a8d1993c7e45a5a9245782184258c757
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z c147fdd21a009847e7193c189254035f138e8e45
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z 52ec73dc7f6c5e742dcb83f8a48de200f1ce5b5f
+> git show -s --format=%an <%ae> [%ai] 549a51850b98461afc00a94589eff429916ca4a1
+> git show -s --format=%an <%ae> [%ai] a384b1a3ac00cb6351d2299de005898bc07e8731
+> git show -s --format=%an <%ae> [%ai] cf878695557c9fa005c7cad589a8a2faeaedcd73
+> git show -s --format=%an <%ae> [%ai] 52ec73dc7f6c5e742dcb83f8a48de200f1ce5b5f
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z 66f9e2298639c6d74740f2dc82d97b8e966bbd6e
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z 52ec73dc7f6c5e742dcb83f8a48de200f1ce5b5f
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z 549a51850b98461afc00a94589eff429916ca4a1
+> git show -s --format=%an <%ae> [%ai] a384b1a3ac00cb6351d2299de005898bc07e8731
+> git show -s --format=%an <%ae> [%ai] d8f75f02db1fb1418d4c21a471f8257721a83891
+> git show -s --format=%an <%ae> [%ai] d8f75f02db1fb1418d4c21a471f8257721a83891
+> git show -s --format=%an <%ae> [%ai] a46fcffc80c1d6d95e1e20f083706f7e49d59dad
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z a46fcffc80c1d6d95e1e20f083706f7e49d59dad
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z d8f75f02db1fb1418d4c21a471f8257721a83891
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z d8f75f02db1fb1418d4c21a471f8257721a83891
+> git show -s --format=%an <%ae> [%ai] 730e3fc7f3fcf930bb1f1a0206327469eee0019f
+> git show -s --format=%an <%ae> [%ai] a384b1a3ac00cb6351d2299de005898bc07e8731
+> git show -s --format=%an <%ae> [%ai] c147fdd21a009847e7193c189254035f138e8e45
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z 730e3fc7f3fcf930bb1f1a0206327469eee0019f
+> git show -s --format=%an <%ae> [%ai] 52ec73dc7f6c5e742dcb83f8a48de200f1ce5b5f
+> git show -s --format=%an <%ae> [%ai] b030e80281bcf57ef790f41d5d6a8c680257da32
+> git show -s --format=%an <%ae> [%ai] 52ec73dc7f6c5e742dcb83f8a48de200f1ce5b5f
+> git show -s --format=%an <%ae> [%ai] b030e80281bcf57ef790f41d5d6a8c680257da32
+> git show -s --format=%an <%ae> [%ai] 66f9e2298639c6d74740f2dc82d97b8e966bbd6e
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z 66f9e2298639c6d74740f2dc82d97b8e966bbd6e
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z b030e80281bcf57ef790f41d5d6a8c680257da32
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z 52ec73dc7f6c5e742dcb83f8a48de200f1ce5b5f
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z b030e80281bcf57ef790f41d5d6a8c680257da32
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z 52ec73dc7f6c5e742dcb83f8a48de200f1ce5b5f
+> git show -s --format=%an <%ae> [%ai] cb6bdf99deab374c3251e8a1ee08d8deeef3e514
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z c147fdd21a009847e7193c189254035f138e8e45
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z cb6bdf99deab374c3251e8a1ee08d8deeef3e514
+> git show -s --format=%an <%ae> [%ai] a384b1a3ac00cb6351d2299de005898bc07e8731
+> git show -s --format=%an <%ae> [%ai] cf878695557c9fa005c7cad589a8a2faeaedcd73
+> git show -s --format=%an <%ae> [%ai] 52ec73dc7f6c5e742dcb83f8a48de200f1ce5b5f
+> git show -s --format=%an <%ae> [%ai] a384b1a3ac00cb6351d2299de005898bc07e8731
+> git show -s --format=%an <%ae> [%ai] cf878695557c9fa005c7cad589a8a2faeaedcd73
+> git show -s --format=%an <%ae> [%ai] 52ec73dc7f6c5e742dcb83f8a48de200f1ce5b5f
+> git show -s --format=%an <%ae> [%ai] c147fdd21a009847e7193c189254035f138e8e45
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z 52ec73dc7f6c5e742dcb83f8a48de200f1ce5b5f
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z 52ec73dc7f6c5e742dcb83f8a48de200f1ce5b5f
+> git show -s --format=%an <%ae> [%ai] d8f75f02db1fb1418d4c21a471f8257721a83891
+> git show -s --format=%an <%ae> [%ai] d8f75f02db1fb1418d4c21a471f8257721a83891
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z d8f75f02db1fb1418d4c21a471f8257721a83891
+> git show -s --format=%an <%ae> [%ai] a384b1a3ac00cb6351d2299de005898bc07e8731
+> git show -s --format=%an <%ae> [%ai] a384b1a3ac00cb6351d2299de005898bc07e8731
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z c147fdd21a009847e7193c189254035f138e8e45
+> git show -s --format=%an <%ae> [%ai] 52ec73dc7f6c5e742dcb83f8a48de200f1ce5b5f
+> git show -s --format=%an <%ae> [%ai] b030e80281bcf57ef790f41d5d6a8c680257da32
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z d8f75f02db1fb1418d4c21a471f8257721a83891
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z b030e80281bcf57ef790f41d5d6a8c680257da32
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z 52ec73dc7f6c5e742dcb83f8a48de200f1ce5b5f
+> git show -s --format=%an <%ae> [%ai] d8f75f02db1fb1418d4c21a471f8257721a83891
+> git show -s --format=%an <%ae> [%ai] a384b1a3ac00cb6351d2299de005898bc07e8731
+> git show -s --format=%an <%ae> [%ai] cf878695557c9fa005c7cad589a8a2faeaedcd73
+> git show -s --format=%an <%ae> [%ai] 52ec73dc7f6c5e742dcb83f8a48de200f1ce5b5f
+> git show -s --format=%an <%ae> [%ai] 52ec73dc7f6c5e742dcb83f8a48de200f1ce5b5f
+> git show -s --format=%an <%ae> [%ai] b030e80281bcf57ef790f41d5d6a8c680257da32
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z 52ec73dc7f6c5e742dcb83f8a48de200f1ce5b5f
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z 52ec73dc7f6c5e742dcb83f8a48de200f1ce5b5f
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z d8f75f02db1fb1418d4c21a471f8257721a83891
+> git show -s --format=%an <%ae> [%ai] a384b1a3ac00cb6351d2299de005898bc07e8731
+> git show -s --format=%an <%ae> [%ai] a384b1a3ac00cb6351d2299de005898bc07e8731
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z b030e80281bcf57ef790f41d5d6a8c680257da32
+> git show -s --format=%an <%ae> [%ai] 52ec73dc7f6c5e742dcb83f8a48de200f1ce5b5f
+> git show -s --format=%an <%ae> [%ai] b030e80281bcf57ef790f41d5d6a8c680257da32
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z b030e80281bcf57ef790f41d5d6a8c680257da32
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z 52ec73dc7f6c5e742dcb83f8a48de200f1ce5b5f
+> git show -s --format=%an <%ae> [%ai] cf878695557c9fa005c7cad589a8a2faeaedcd73
+> git show -s --format=%an <%ae> [%ai] 52ec73dc7f6c5e742dcb83f8a48de200f1ce5b5f
+> git show -s --format=%an <%ae> [%ai] a384b1a3ac00cb6351d2299de005898bc07e8731
+> git show -s --format=%an <%ae> [%ai] cf878695557c9fa005c7cad589a8a2faeaedcd73
+> git show -s --format=%an <%ae> [%ai] 52ec73dc7f6c5e742dcb83f8a48de200f1ce5b5f
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z 52ec73dc7f6c5e742dcb83f8a48de200f1ce5b5f
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z 52ec73dc7f6c5e742dcb83f8a48de200f1ce5b5f
+> git show -s --format=%an <%ae> [%ai] a384b1a3ac00cb6351d2299de005898bc07e8731
+> git show -s --format=%an <%ae> [%ai] a384b1a3ac00cb6351d2299de005898bc07e8731
+> git show --textconv :xlsx/test.py
+> git ls-files --stage -- /home/mulukou/Projects/bots-web-service/xlsx/test.py
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse bot/sindat
+> git rev-parse --symbolic-full-name bot/sindat@{u}
+fatal: no upstream configured for branch 'bot/sindat'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse bot/sindat
+> git rev-parse --symbolic-full-name bot/sindat@{u}
+fatal: no upstream configured for branch 'bot/sindat'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/bots/sindat/index.ts
+> git ls-files --stage -- /home/mulukou/Projects/bots-web-service/src/bots/sindat/index.ts
+> git cat-file -s ba4ee1efe524d886688bb3f226e48b9ee701e723
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse bot/sindat
+> git rev-parse --symbolic-full-name bot/sindat@{u}
+fatal: no upstream configured for branch 'bot/sindat'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse bot/sindat
+> git rev-parse --symbolic-full-name bot/sindat@{u}
+fatal: no upstream configured for branch 'bot/sindat'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse bot/sindat
+> git rev-parse --symbolic-full-name bot/sindat@{u}
+fatal: no upstream configured for branch 'bot/sindat'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse bot/sindat
+> git rev-parse --symbolic-full-name bot/sindat@{u}
+fatal: no upstream configured for branch 'bot/sindat'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse bot/sindat
+> git rev-parse --symbolic-full-name bot/sindat@{u}
+fatal: no upstream configured for branch 'bot/sindat'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse bot/sindat
+> git rev-parse --symbolic-full-name bot/sindat@{u}
+fatal: no upstream configured for branch 'bot/sindat'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse bot/sindat
+> git rev-parse --symbolic-full-name bot/sindat@{u}
+fatal: no upstream configured for branch 'bot/sindat'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse bot/sindat
+> git rev-parse --symbolic-full-name bot/sindat@{u}
+fatal: no upstream configured for branch 'bot/sindat'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse bot/sindat
+> git rev-parse --symbolic-full-name bot/sindat@{u}
+fatal: no upstream configured for branch 'bot/sindat'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse bot/sindat
+> git rev-parse --symbolic-full-name bot/sindat@{u}
+fatal: no upstream configured for branch 'bot/sindat'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse bot/sindat
+> git rev-parse --symbolic-full-name bot/sindat@{u}
+fatal: no upstream configured for branch 'bot/sindat'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/bots/sindat/runYear.ts
+> git ls-files --stage -- /home/mulukou/Projects/bots-web-service/src/bots/sindat/runYear.ts
+> git cat-file -s 8c066b49f3248e6d1de6500819af4a3958d6f982
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse bot/sindat
+> git rev-parse --symbolic-full-name bot/sindat@{u}
+fatal: no upstream configured for branch 'bot/sindat'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/bots/sindat/index.ts
+> git ls-files --stage -- /home/mulukou/Projects/bots-web-service/src/bots/sindat/index.ts
+> git cat-file -s ba4ee1efe524d886688bb3f226e48b9ee701e723
+> git show --textconv :src/bots/sindat/login.ts
+> git ls-files --stage -- /home/mulukou/Projects/bots-web-service/src/bots/sindat/login.ts
+> git cat-file -s d7e794702276e7f9a1a15d37ffd045edb2d7155a
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse bot/sindat
+> git rev-parse --symbolic-full-name bot/sindat@{u}
+fatal: no upstream configured for branch 'bot/sindat'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse bot/sindat
+> git rev-parse --symbolic-full-name bot/sindat@{u}
+fatal: no upstream configured for branch 'bot/sindat'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/bots/sindat/index.ts
+> git ls-files --stage -- /home/mulukou/Projects/bots-web-service/src/bots/sindat/index.ts
+> git cat-file -s ba4ee1efe524d886688bb3f226e48b9ee701e723
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse bot/sindat
+> git rev-parse --symbolic-full-name bot/sindat@{u}
+fatal: no upstream configured for branch 'bot/sindat'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/bots/sindat/collectPlanned.ts
+> git ls-files --stage -- /home/mulukou/Projects/bots-web-service/src/bots/sindat/collectPlanned.ts
+> git cat-file -s 1a95512fbae5f418a466f898e8d164e4d31ee062
+> git show --textconv :src/bots/sindat/index.ts
+> git ls-files --stage -- /home/mulukou/Projects/bots-web-service/src/bots/sindat/index.ts
+> git cat-file -s ba4ee1efe524d886688bb3f226e48b9ee701e723
+> git show --textconv :src/bots/sindat/collectPlanned.ts
+> git ls-files --stage -- /home/mulukou/Projects/bots-web-service/src/bots/sindat/collectPlanned.ts
+> git cat-file -s 1a95512fbae5f418a466f898e8d164e4d31ee062
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse bot/sindat
+> git rev-parse --symbolic-full-name bot/sindat@{u}
+fatal: no upstream configured for branch 'bot/sindat'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse bot/sindat
+> git rev-parse --symbolic-full-name bot/sindat@{u}
+fatal: no upstream configured for branch 'bot/sindat'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/bots/sindat/index.ts
+> git ls-files --stage -- /home/mulukou/Projects/bots-web-service/src/bots/sindat/index.ts
+> git cat-file -s ba4ee1efe524d886688bb3f226e48b9ee701e723
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse bot/sindat
+> git rev-parse --symbolic-full-name bot/sindat@{u}
+fatal: no upstream configured for branch 'bot/sindat'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/bots/sindat/collectPlanned.ts
+> git ls-files --stage -- /home/mulukou/Projects/bots-web-service/src/bots/sindat/collectPlanned.ts
+> git cat-file -s 1a95512fbae5f418a466f898e8d164e4d31ee062
+> git show --textconv :src/bots/sindat/runYear.ts
+> git ls-files --stage -- /home/mulukou/Projects/bots-web-service/src/bots/sindat/runYear.ts
+> git cat-file -s 8c066b49f3248e6d1de6500819af4a3958d6f982
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse bot/sindat
+> git rev-parse --symbolic-full-name bot/sindat@{u}
+fatal: no upstream configured for branch 'bot/sindat'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse bot/sindat
+> git rev-parse --symbolic-full-name bot/sindat@{u}
+fatal: no upstream configured for branch 'bot/sindat'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/bots/sindat/collectPlanned.ts
+> git ls-files --stage -- /home/mulukou/Projects/bots-web-service/src/bots/sindat/collectPlanned.ts
+> git cat-file -s 1a95512fbae5f418a466f898e8d164e4d31ee062
+> git show --textconv :src/bots/sindat/runYear.ts
+> git ls-files --stage -- /home/mulukou/Projects/bots-web-service/src/bots/sindat/runYear.ts
+> git cat-file -s 8c066b49f3248e6d1de6500819af4a3958d6f982
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse bot/sindat
+> git rev-parse --symbolic-full-name bot/sindat@{u}
+fatal: no upstream configured for branch 'bot/sindat'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/bots/sindat/collectPlanned.ts
+> git ls-files --stage -- /home/mulukou/Projects/bots-web-service/src/bots/sindat/collectPlanned.ts
+> git cat-file -s 1a95512fbae5f418a466f898e8d164e4d31ee062
+> git show --textconv :src/bots/sindat/runYear.ts
+> git ls-files --stage -- /home/mulukou/Projects/bots-web-service/src/bots/sindat/runYear.ts
+> git cat-file -s 8c066b49f3248e6d1de6500819af4a3958d6f982
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse bot/sindat
+> git rev-parse --symbolic-full-name bot/sindat@{u}
+fatal: no upstream configured for branch 'bot/sindat'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse bot/sindat
+> git rev-parse --symbolic-full-name bot/sindat@{u}
+fatal: no upstream configured for branch 'bot/sindat'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse bot/sindat
+> git rev-parse --symbolic-full-name bot/sindat@{u}
+fatal: no upstream configured for branch 'bot/sindat'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/bots/sindat/collectPlanned.ts
+> git ls-files --stage -- /home/mulukou/Projects/bots-web-service/src/bots/sindat/collectPlanned.ts
+> git cat-file -s 1a95512fbae5f418a466f898e8d164e4d31ee062
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse bot/sindat
+> git rev-parse --symbolic-full-name bot/sindat@{u}
+fatal: no upstream configured for branch 'bot/sindat'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/bots/sindat/runYear.ts
+> git ls-files --stage -- /home/mulukou/Projects/bots-web-service/src/bots/sindat/runYear.ts
+> git cat-file -s 8c066b49f3248e6d1de6500819af4a3958d6f982
+> git show --textconv :src/bots/sindat/collectPlanned.ts
+> git ls-files --stage -- /home/mulukou/Projects/bots-web-service/src/bots/sindat/collectPlanned.ts
+> git cat-file -s 1a95512fbae5f418a466f898e8d164e4d31ee062
+> git show --textconv :src/bots/sindat/runYear.ts
+> git ls-files --stage -- /home/mulukou/Projects/bots-web-service/src/bots/sindat/runYear.ts
+> git cat-file -s 8c066b49f3248e6d1de6500819af4a3958d6f982
+> git show --textconv :src/bots/sindat/collectPlanned.ts
+> git ls-files --stage -- /home/mulukou/Projects/bots-web-service/src/bots/sindat/collectPlanned.ts
+> git cat-file -s 1a95512fbae5f418a466f898e8d164e4d31ee062
+> git show --textconv :src/bots/sindat/runYear.ts
+> git ls-files --stage -- /home/mulukou/Projects/bots-web-service/src/bots/sindat/runYear.ts
+> git cat-file -s 8c066b49f3248e6d1de6500819af4a3958d6f982
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse bot/sindat
+> git rev-parse --symbolic-full-name bot/sindat@{u}
+fatal: no upstream configured for branch 'bot/sindat'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/bots/sindat/collectPlanned.ts
+> git ls-files --stage -- /home/mulukou/Projects/bots-web-service/src/bots/sindat/collectPlanned.ts
+> git cat-file -s 1a95512fbae5f418a466f898e8d164e4d31ee062
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse bot/sindat
+> git rev-parse --symbolic-full-name bot/sindat@{u}
+fatal: no upstream configured for branch 'bot/sindat'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/bots/sindat/runYear.ts
+> git ls-files --stage -- /home/mulukou/Projects/bots-web-service/src/bots/sindat/runYear.ts
+> git cat-file -s 8c066b49f3248e6d1de6500819af4a3958d6f982
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse bot/sindat
+> git rev-parse --symbolic-full-name bot/sindat@{u}
+fatal: no upstream configured for branch 'bot/sindat'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/bots/sindat/collectPlanned.ts
+> git ls-files --stage -- /home/mulukou/Projects/bots-web-service/src/bots/sindat/collectPlanned.ts
+> git cat-file -s 1a95512fbae5f418a466f898e8d164e4d31ee062
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse bot/sindat
+> git rev-parse --symbolic-full-name bot/sindat@{u}
+fatal: no upstream configured for branch 'bot/sindat'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/bots/sindat/runYear.ts
+> git ls-files --stage -- /home/mulukou/Projects/bots-web-service/src/bots/sindat/runYear.ts
+> git cat-file -s 8c066b49f3248e6d1de6500819af4a3958d6f982
+> git show --textconv :src/bots/sindat/collectPlanned.ts
+> git ls-files --stage -- /home/mulukou/Projects/bots-web-service/src/bots/sindat/collectPlanned.ts
+> git cat-file -s 1a95512fbae5f418a466f898e8d164e4d31ee062
+> git show --textconv :src/bots/sindat/runYear.ts
+> git ls-files --stage -- /home/mulukou/Projects/bots-web-service/src/bots/sindat/runYear.ts
+> git cat-file -s 8c066b49f3248e6d1de6500819af4a3958d6f982
+> git show --textconv :src/bots/sindat/collectEquipments.ts
+> git ls-files --stage -- /home/mulukou/Projects/bots-web-service/src/bots/sindat/collectEquipments.ts
+> git cat-file -s a3843d5e7629c8f2f06adc6dad048ebaed474d95
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse bot/sindat
+> git rev-parse --symbolic-full-name bot/sindat@{u}
+fatal: no upstream configured for branch 'bot/sindat'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse bot/sindat
+> git rev-parse --symbolic-full-name bot/sindat@{u}
+fatal: no upstream configured for branch 'bot/sindat'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse bot/sindat
+> git rev-parse --symbolic-full-name bot/sindat@{u}
+fatal: no upstream configured for branch 'bot/sindat'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/bots/sindat/index.ts
+> git ls-files --stage -- /home/mulukou/Projects/bots-web-service/src/bots/sindat/index.ts
+> git cat-file -s ba4ee1efe524d886688bb3f226e48b9ee701e723
+> git show --textconv :src/bots/sindat/collectEquipments.ts
+> git ls-files --stage -- /home/mulukou/Projects/bots-web-service/src/bots/sindat/collectEquipments.ts
+> git cat-file -s a3843d5e7629c8f2f06adc6dad048ebaed474d95
+> git show --textconv :src/bots/sindat/index.ts
+> git ls-files --stage -- /home/mulukou/Projects/bots-web-service/src/bots/sindat/index.ts
+> git cat-file -s ba4ee1efe524d886688bb3f226e48b9ee701e723
+> git show --textconv :src/bots/sindat/collectEquipments.ts
+> git ls-files --stage -- /home/mulukou/Projects/bots-web-service/src/bots/sindat/collectEquipments.ts
+> git cat-file -s a3843d5e7629c8f2f06adc6dad048ebaed474d95
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse bot/sindat
+> git rev-parse --symbolic-full-name bot/sindat@{u}
+fatal: no upstream configured for branch 'bot/sindat'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse bot/sindat
+> git rev-parse --symbolic-full-name bot/sindat@{u}
+fatal: no upstream configured for branch 'bot/sindat'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse bot/sindat
+> git rev-parse --symbolic-full-name bot/sindat@{u}
+fatal: no upstream configured for branch 'bot/sindat'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse bot/sindat
+> git rev-parse --symbolic-full-name bot/sindat@{u}
+fatal: no upstream configured for branch 'bot/sindat'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse bot/sindat
+> git rev-parse --symbolic-full-name bot/sindat@{u}
+fatal: no upstream configured for branch 'bot/sindat'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse bot/sindat
+> git rev-parse --symbolic-full-name bot/sindat@{u}
+fatal: no upstream configured for branch 'bot/sindat'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse bot/sindat
+> git rev-parse --symbolic-full-name bot/sindat@{u}
+fatal: no upstream configured for branch 'bot/sindat'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse bot/sindat
+> git rev-parse --symbolic-full-name bot/sindat@{u}
+fatal: no upstream configured for branch 'bot/sindat'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse bot/sindat
+> git rev-parse --symbolic-full-name bot/sindat@{u}
+fatal: no upstream configured for branch 'bot/sindat'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse bot/sindat
+> git rev-parse --symbolic-full-name bot/sindat@{u}
+fatal: no upstream configured for branch 'bot/sindat'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse bot/sindat
+> git rev-parse --symbolic-full-name bot/sindat@{u}
+fatal: no upstream configured for branch 'bot/sindat'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse bot/sindat
+> git rev-parse --symbolic-full-name bot/sindat@{u}
+fatal: no upstream configured for branch 'bot/sindat'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse bot/sindat
+> git rev-parse --symbolic-full-name bot/sindat@{u}
+fatal: no upstream configured for branch 'bot/sindat'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse bot/sindat
+> git rev-parse --symbolic-full-name bot/sindat@{u}
+fatal: no upstream configured for branch 'bot/sindat'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse bot/sindat
+> git rev-parse --symbolic-full-name bot/sindat@{u}
+fatal: no upstream configured for branch 'bot/sindat'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse bot/sindat
+> git rev-parse --symbolic-full-name bot/sindat@{u}
+fatal: no upstream configured for branch 'bot/sindat'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse bot/sindat
+> git rev-parse --symbolic-full-name bot/sindat@{u}
+fatal: no upstream configured for branch 'bot/sindat'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse bot/sindat
+> git rev-parse --symbolic-full-name bot/sindat@{u}
+fatal: no upstream configured for branch 'bot/sindat'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse bot/sindat
+> git rev-parse --symbolic-full-name bot/sindat@{u}
+fatal: no upstream configured for branch 'bot/sindat'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse bot/sindat
+> git rev-parse --symbolic-full-name bot/sindat@{u}
+fatal: no upstream configured for branch 'bot/sindat'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse bot/sindat
+> git rev-parse --symbolic-full-name bot/sindat@{u}
+fatal: no upstream configured for branch 'bot/sindat'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse bot/sindat
+> git rev-parse --symbolic-full-name bot/sindat@{u}
+fatal: no upstream configured for branch 'bot/sindat'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/bots/sindat/index.ts
+> git ls-files --stage -- /home/mulukou/Projects/bots-web-service/src/bots/sindat/index.ts
+> git cat-file -s ba4ee1efe524d886688bb3f226e48b9ee701e723
+> git show --textconv :src/bots/sindat/collectPlanned.ts
+> git ls-files --stage -- /home/mulukou/Projects/bots-web-service/src/bots/sindat/collectPlanned.ts
+> git cat-file -s 1a95512fbae5f418a466f898e8d164e4d31ee062
+> git show --textconv :src/bots/sindat/runYear.ts
+> git ls-files --stage -- /home/mulukou/Projects/bots-web-service/src/bots/sindat/runYear.ts
+> git cat-file -s 8c066b49f3248e6d1de6500819af4a3958d6f982
+> git show --textconv :src/bots/sindat/collectEquipments.ts
+> git ls-files --stage -- /home/mulukou/Projects/bots-web-service/src/bots/sindat/collectEquipments.ts
+> git cat-file -s a3843d5e7629c8f2f06adc6dad048ebaed474d95
+> git show --textconv :src/bots/sindat/collectPlanned.ts
+> git ls-files --stage -- /home/mulukou/Projects/bots-web-service/src/bots/sindat/collectPlanned.ts
+> git cat-file -s 1a95512fbae5f418a466f898e8d164e4d31ee062
+> git show --textconv :src/bots/sindat/runYear.ts
+> git ls-files --stage -- /home/mulukou/Projects/bots-web-service/src/bots/sindat/runYear.ts
+> git cat-file -s 8c066b49f3248e6d1de6500819af4a3958d6f982
+> git show --textconv :src/bots/sindat/collectEquipments.ts
+> git ls-files --stage -- /home/mulukou/Projects/bots-web-service/src/bots/sindat/collectEquipments.ts
+> git cat-file -s a3843d5e7629c8f2f06adc6dad048ebaed474d95
+> git show --textconv :src/bots/sindat/runYear.ts
+> git ls-files --stage -- /home/mulukou/Projects/bots-web-service/src/bots/sindat/runYear.ts
+> git cat-file -s 8c066b49f3248e6d1de6500819af4a3958d6f982
+> git show --textconv :src/logger.ts
+> git ls-files --stage -- /home/mulukou/Projects/bots-web-service/src/logger.ts
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse bot/sindat
+> git rev-parse --symbolic-full-name bot/sindat@{u}
+fatal: no upstream configured for branch 'bot/sindat'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/bots/sindat/runYear.ts
+> git ls-files --stage -- /home/mulukou/Projects/bots-web-service/src/bots/sindat/runYear.ts
+> git cat-file -s 8c066b49f3248e6d1de6500819af4a3958d6f982
+> git show --textconv :src/logger.ts
+> git ls-files --stage -- /home/mulukou/Projects/bots-web-service/src/logger.ts
+> git show --textconv :src/bots/sindat/runYear.ts
+> git ls-files --stage -- /home/mulukou/Projects/bots-web-service/src/bots/sindat/runYear.ts
+> git cat-file -s 8c066b49f3248e6d1de6500819af4a3958d6f982
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse bot/sindat
+> git rev-parse --symbolic-full-name bot/sindat@{u}
+fatal: no upstream configured for branch 'bot/sindat'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/bots/sindat/logger.ts
+> git ls-files --stage -- /home/mulukou/Projects/bots-web-service/src/bots/sindat/logger.ts
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse bot/sindat
+> git rev-parse --symbolic-full-name bot/sindat@{u}
+fatal: no upstream configured for branch 'bot/sindat'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse bot/sindat
+> git rev-parse --symbolic-full-name bot/sindat@{u}
+fatal: no upstream configured for branch 'bot/sindat'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse bot/sindat
+> git rev-parse --symbolic-full-name bot/sindat@{u}
+fatal: no upstream configured for branch 'bot/sindat'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse bot/sindat
+> git rev-parse --symbolic-full-name bot/sindat@{u}
+fatal: no upstream configured for branch 'bot/sindat'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse bot/sindat
+> git rev-parse --symbolic-full-name bot/sindat@{u}
+fatal: no upstream configured for branch 'bot/sindat'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse bot/sindat
+> git rev-parse --symbolic-full-name bot/sindat@{u}
+fatal: no upstream configured for branch 'bot/sindat'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/bots/sindat/collectPlanned.ts
+> git ls-files --stage -- /home/mulukou/Projects/bots-web-service/src/bots/sindat/collectPlanned.ts
+> git cat-file -s 1a95512fbae5f418a466f898e8d164e4d31ee062
+> git show --textconv :src/bots/sindat/index.ts
+> git ls-files --stage -- /home/mulukou/Projects/bots-web-service/src/bots/sindat/index.ts
+> git cat-file -s ba4ee1efe524d886688bb3f226e48b9ee701e723
+> git show --textconv :src/bots/sindat/runYear.ts
+> git ls-files --stage -- /home/mulukou/Projects/bots-web-service/src/bots/sindat/runYear.ts
+> git cat-file -s 8c066b49f3248e6d1de6500819af4a3958d6f982
+> git show --textconv :src/bots/sindat/logger.ts
+> git ls-files --stage -- /home/mulukou/Projects/bots-web-service/src/bots/sindat/logger.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse bot/sindat
+> git rev-parse --symbolic-full-name bot/sindat@{u}
+fatal: no upstream configured for branch 'bot/sindat'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse bot/sindat
+> git rev-parse --symbolic-full-name bot/sindat@{u}
+fatal: no upstream configured for branch 'bot/sindat'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/bots/sindat/runYear.ts
+> git ls-files --stage -- /home/mulukou/Projects/bots-web-service/src/bots/sindat/runYear.ts
+> git cat-file -s 8c066b49f3248e6d1de6500819af4a3958d6f982
+> git show --textconv :src/bots/sindat/collectPlanned.ts
+> git ls-files --stage -- /home/mulukou/Projects/bots-web-service/src/bots/sindat/collectPlanned.ts
+> git cat-file -s 1a95512fbae5f418a466f898e8d164e4d31ee062
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse bot/sindat
+> git rev-parse --symbolic-full-name bot/sindat@{u}
+fatal: no upstream configured for branch 'bot/sindat'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/bots/sindat/runYear.ts
+> git ls-files --stage -- /home/mulukou/Projects/bots-web-service/src/bots/sindat/runYear.ts
+> git cat-file -s 8c066b49f3248e6d1de6500819af4a3958d6f982
+> git show --textconv :src/bots/sindat/logger.ts
+> git ls-files --stage -- /home/mulukou/Projects/bots-web-service/src/bots/sindat/logger.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse bot/sindat
+> git rev-parse --symbolic-full-name bot/sindat@{u}
+fatal: no upstream configured for branch 'bot/sindat'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/bots/sindat/collectPlanned.ts
+> git ls-files --stage -- /home/mulukou/Projects/bots-web-service/src/bots/sindat/collectPlanned.ts
+> git cat-file -s 1a95512fbae5f418a466f898e8d164e4d31ee062
+> git show --textconv :src/bots/sindat/logger.ts
+> git ls-files --stage -- /home/mulukou/Projects/bots-web-service/src/bots/sindat/logger.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse bot/sindat
+> git rev-parse --symbolic-full-name bot/sindat@{u}
+fatal: no upstream configured for branch 'bot/sindat'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse bot/sindat
+> git rev-parse --symbolic-full-name bot/sindat@{u}
+fatal: no upstream configured for branch 'bot/sindat'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/bots/sindat/index.ts
+> git ls-files --stage -- /home/mulukou/Projects/bots-web-service/src/bots/sindat/index.ts
+> git cat-file -s ba4ee1efe524d886688bb3f226e48b9ee701e723
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse bot/sindat
+> git rev-parse --symbolic-full-name bot/sindat@{u}
+fatal: no upstream configured for branch 'bot/sindat'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/bots/sindat/collectPlanned.ts
+> git ls-files --stage -- /home/mulukou/Projects/bots-web-service/src/bots/sindat/collectPlanned.ts
+> git cat-file -s 1a95512fbae5f418a466f898e8d164e4d31ee062
+> git show --textconv :src/bots/sindat/runYear.ts
+> git ls-files --stage -- /home/mulukou/Projects/bots-web-service/src/bots/sindat/runYear.ts
+> git cat-file -s 8c066b49f3248e6d1de6500819af4a3958d6f982
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse bot/sindat
+> git rev-parse --symbolic-full-name bot/sindat@{u}
+fatal: no upstream configured for branch 'bot/sindat'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse bot/sindat
+> git rev-parse --symbolic-full-name bot/sindat@{u}
+fatal: no upstream configured for branch 'bot/sindat'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse bot/sindat
+> git rev-parse --symbolic-full-name bot/sindat@{u}
+fatal: no upstream configured for branch 'bot/sindat'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse bot/sindat
+> git rev-parse --symbolic-full-name bot/sindat@{u}
+fatal: no upstream configured for branch 'bot/sindat'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse bot/sindat
+> git rev-parse --symbolic-full-name bot/sindat@{u}
+fatal: no upstream configured for branch 'bot/sindat'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse bot/sindat
+> git rev-parse --symbolic-full-name bot/sindat@{u}
+fatal: no upstream configured for branch 'bot/sindat'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse bot/sindat
+> git rev-parse --symbolic-full-name bot/sindat@{u}
+fatal: no upstream configured for branch 'bot/sindat'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse bot/sindat
+> git rev-parse --symbolic-full-name bot/sindat@{u}
+fatal: no upstream configured for branch 'bot/sindat'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/bots/sindat/collectPlanned.ts
+> git ls-files --stage -- /home/mulukou/Projects/bots-web-service/src/bots/sindat/collectPlanned.ts
+> git cat-file -s 1a95512fbae5f418a466f898e8d164e4d31ee062
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse bot/sindat
+> git rev-parse --symbolic-full-name bot/sindat@{u}
+fatal: no upstream configured for branch 'bot/sindat'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/bots/sindat/index.ts
+> git ls-files --stage -- /home/mulukou/Projects/bots-web-service/src/bots/sindat/index.ts
+> git cat-file -s ba4ee1efe524d886688bb3f226e48b9ee701e723
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse bot/sindat
+> git rev-parse --symbolic-full-name bot/sindat@{u}
+fatal: no upstream configured for branch 'bot/sindat'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :sindat.log
+> git ls-files --stage -- /home/mulukou/Projects/bots-web-service/sindat.log
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse bot/sindat
+> git rev-parse --symbolic-full-name bot/sindat@{u}
+fatal: no upstream configured for branch 'bot/sindat'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/bots/sindat/index.ts
+> git ls-files --stage -- /home/mulukou/Projects/bots-web-service/src/bots/sindat/index.ts
+> git cat-file -s ba4ee1efe524d886688bb3f226e48b9ee701e723
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse bot/sindat
+> git rev-parse --symbolic-full-name bot/sindat@{u}
+fatal: no upstream configured for branch 'bot/sindat'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse bot/sindat
+> git rev-parse --symbolic-full-name bot/sindat@{u}
+fatal: no upstream configured for branch 'bot/sindat'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/bots/sindat/logger.ts
+> git ls-files --stage -- /home/mulukou/Projects/bots-web-service/src/bots/sindat/logger.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse bot/sindat
+> git rev-parse --symbolic-full-name bot/sindat@{u}
+fatal: no upstream configured for branch 'bot/sindat'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/bots/sindat/runYear.ts
+> git ls-files --stage -- /home/mulukou/Projects/bots-web-service/src/bots/sindat/runYear.ts
+> git cat-file -s 8c066b49f3248e6d1de6500819af4a3958d6f982
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse bot/sindat
+> git rev-parse --symbolic-full-name bot/sindat@{u}
+fatal: no upstream configured for branch 'bot/sindat'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/bots/sindat/logger.ts
+> git ls-files --stage -- /home/mulukou/Projects/bots-web-service/src/bots/sindat/logger.ts
+> git show --textconv :src/bots/sindat/runYear.ts
+> git ls-files --stage -- /home/mulukou/Projects/bots-web-service/src/bots/sindat/runYear.ts
+> git cat-file -s 8c066b49f3248e6d1de6500819af4a3958d6f982
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse bot/sindat
+> git rev-parse --symbolic-full-name bot/sindat@{u}
+fatal: no upstream configured for branch 'bot/sindat'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/bots/sindat/index.ts
+> git ls-files --stage -- /home/mulukou/Projects/bots-web-service/src/bots/sindat/index.ts
+> git cat-file -s ba4ee1efe524d886688bb3f226e48b9ee701e723
+> git show --textconv :src/bots/sindat/logger.ts
+> git ls-files --stage -- /home/mulukou/Projects/bots-web-service/src/bots/sindat/logger.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse bot/sindat
+> git rev-parse --symbolic-full-name bot/sindat@{u}
+fatal: no upstream configured for branch 'bot/sindat'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse bot/sindat
+> git rev-parse --symbolic-full-name bot/sindat@{u}
+fatal: no upstream configured for branch 'bot/sindat'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/bots/sindat/runYear.ts
+> git ls-files --stage -- /home/mulukou/Projects/bots-web-service/src/bots/sindat/runYear.ts
+> git cat-file -s 8c066b49f3248e6d1de6500819af4a3958d6f982
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse bot/sindat
+> git rev-parse --symbolic-full-name bot/sindat@{u}
+fatal: no upstream configured for branch 'bot/sindat'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/bots/sindat/collectPlanned.ts
+> git ls-files --stage -- /home/mulukou/Projects/bots-web-service/src/bots/sindat/collectPlanned.ts
+> git cat-file -s 1a95512fbae5f418a466f898e8d164e4d31ee062
+> git show --textconv :src/bots/sindat/index.ts
+> git ls-files --stage -- /home/mulukou/Projects/bots-web-service/src/bots/sindat/index.ts
+> git status -z -u
+> git cat-file -s ba4ee1efe524d886688bb3f226e48b9ee701e723
+> git symbolic-ref --short HEAD
+> git rev-parse bot/sindat
+> git rev-parse --symbolic-full-name bot/sindat@{u}
+fatal: no upstream configured for branch 'bot/sindat'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse bot/sindat
+> git rev-parse --symbolic-full-name bot/sindat@{u}
+fatal: no upstream configured for branch 'bot/sindat'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/bots/sindat/runYear.ts
+> git ls-files --stage -- /home/mulukou/Projects/bots-web-service/src/bots/sindat/runYear.ts
+> git cat-file -s 8c066b49f3248e6d1de6500819af4a3958d6f982
+> git show --textconv :src/bots/sindat/logger.ts
+> git ls-files --stage -- /home/mulukou/Projects/bots-web-service/src/bots/sindat/logger.ts
+> git show --textconv :src/bots/sindat/index.ts
+> git ls-files --stage -- /home/mulukou/Projects/bots-web-service/src/bots/sindat/index.ts
+> git cat-file -s ba4ee1efe524d886688bb3f226e48b9ee701e723
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse bot/sindat
+> git rev-parse --symbolic-full-name bot/sindat@{u}
+fatal: no upstream configured for branch 'bot/sindat'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/bots/sindat/logger.ts
+> git ls-files --stage -- /home/mulukou/Projects/bots-web-service/src/bots/sindat/logger.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse bot/sindat
+> git rev-parse --symbolic-full-name bot/sindat@{u}
+fatal: no upstream configured for branch 'bot/sindat'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/bots/sindat/index.ts
+> git ls-files --stage -- /home/mulukou/Projects/bots-web-service/src/bots/sindat/index.ts
+> git cat-file -s ba4ee1efe524d886688bb3f226e48b9ee701e723
+> git show --textconv :src/bots/sindat/collectPlanned.ts
+> git ls-files --stage -- /home/mulukou/Projects/bots-web-service/src/bots/sindat/collectPlanned.ts
+> git cat-file -s 1a95512fbae5f418a466f898e8d164e4d31ee062
+> git show --textconv :src/bots/sindat/index.ts
+> git ls-files --stage -- /home/mulukou/Projects/bots-web-service/src/bots/sindat/index.ts
+> git cat-file -s ba4ee1efe524d886688bb3f226e48b9ee701e723
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse bot/sindat
+> git rev-parse --symbolic-full-name bot/sindat@{u}
+fatal: no upstream configured for branch 'bot/sindat'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/bots/sindat/collectPlanned.ts
+> git ls-files --stage -- /home/mulukou/Projects/bots-web-service/src/bots/sindat/collectPlanned.ts
+> git cat-file -s 1a95512fbae5f418a466f898e8d164e4d31ee062
+> git show --textconv :src/bots/sindat/runYear.ts
+> git ls-files --stage -- /home/mulukou/Projects/bots-web-service/src/bots/sindat/runYear.ts
+> git cat-file -s 8c066b49f3248e6d1de6500819af4a3958d6f982
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse bot/sindat
+> git rev-parse --symbolic-full-name bot/sindat@{u}
+fatal: no upstream configured for branch 'bot/sindat'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse bot/sindat
+> git rev-parse --symbolic-full-name bot/sindat@{u}
+fatal: no upstream configured for branch 'bot/sindat'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/bots/sindat/collectPlanned.ts
+> git ls-files --stage -- /home/mulukou/Projects/bots-web-service/src/bots/sindat/collectPlanned.ts
+> git cat-file -s 1a95512fbae5f418a466f898e8d164e4d31ee062
+> git show --textconv :src/bots/sindat/index.ts
+> git ls-files --stage -- /home/mulukou/Projects/bots-web-service/src/bots/sindat/index.ts
+> git cat-file -s ba4ee1efe524d886688bb3f226e48b9ee701e723
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse bot/sindat
+> git rev-parse --symbolic-full-name bot/sindat@{u}
+fatal: no upstream configured for branch 'bot/sindat'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/bots/sindat/logger.ts
+> git ls-files --stage -- /home/mulukou/Projects/bots-web-service/src/bots/sindat/logger.ts
+> git show --textconv :src/bots/sindat/index.ts
+> git ls-files --stage -- /home/mulukou/Projects/bots-web-service/src/bots/sindat/index.ts
+> git cat-file -s ba4ee1efe524d886688bb3f226e48b9ee701e723
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse bot/sindat
+> git rev-parse --symbolic-full-name bot/sindat@{u}
+fatal: no upstream configured for branch 'bot/sindat'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse bot/sindat
+> git rev-parse --symbolic-full-name bot/sindat@{u}
+fatal: no upstream configured for branch 'bot/sindat'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse bot/sindat
+> git rev-parse --symbolic-full-name bot/sindat@{u}
+fatal: no upstream configured for branch 'bot/sindat'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse bot/sindat
+> git rev-parse --symbolic-full-name bot/sindat@{u}
+fatal: no upstream configured for branch 'bot/sindat'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse bot/sindat
+> git rev-parse --symbolic-full-name bot/sindat@{u}
+fatal: no upstream configured for branch 'bot/sindat'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse bot/sindat
+> git rev-parse --symbolic-full-name bot/sindat@{u}
+fatal: no upstream configured for branch 'bot/sindat'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :logfile.log
+> git ls-files --stage -- /home/mulukou/Projects/bots-web-service/logfile.log
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse bot/sindat
+> git rev-parse --symbolic-full-name bot/sindat@{u}
+fatal: no upstream configured for branch 'bot/sindat'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse bot/sindat
+> git rev-parse --symbolic-full-name bot/sindat@{u}
+fatal: no upstream configured for branch 'bot/sindat'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/bots/sindat/index.ts
+> git ls-files --stage -- /home/mulukou/Projects/bots-web-service/src/bots/sindat/index.ts
+> git cat-file -s ba4ee1efe524d886688bb3f226e48b9ee701e723
+> git show --textconv :src/bots/sindat/logger.ts
+> git ls-files --stage -- /home/mulukou/Projects/bots-web-service/src/bots/sindat/logger.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse bot/sindat
+> git rev-parse --symbolic-full-name bot/sindat@{u}
+fatal: no upstream configured for branch 'bot/sindat'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse bot/sindat
+> git rev-parse --symbolic-full-name bot/sindat@{u}
+fatal: no upstream configured for branch 'bot/sindat'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse bot/sindat
+> git rev-parse --symbolic-full-name bot/sindat@{u}
+fatal: no upstream configured for branch 'bot/sindat'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse bot/sindat
+> git rev-parse --symbolic-full-name bot/sindat@{u}
+fatal: no upstream configured for branch 'bot/sindat'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse bot/sindat
+> git rev-parse --symbolic-full-name bot/sindat@{u}
+fatal: no upstream configured for branch 'bot/sindat'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :logs/sindat.log
+> git ls-files --stage -- /home/mulukou/Projects/bots-web-service/logs/sindat.log
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse bot/sindat
+> git rev-parse --symbolic-full-name bot/sindat@{u}
+fatal: no upstream configured for branch 'bot/sindat'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/bots/sindat/index.ts
+> git ls-files --stage -- /home/mulukou/Projects/bots-web-service/src/bots/sindat/index.ts
+> git cat-file -s ba4ee1efe524d886688bb3f226e48b9ee701e723
+> git show --textconv :logs/sindat.log
+> git ls-files --stage -- /home/mulukou/Projects/bots-web-service/logs/sindat.log
+> git show --textconv :src/bots/sindat/logger.ts
+> git ls-files --stage -- /home/mulukou/Projects/bots-web-service/src/bots/sindat/logger.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse bot/sindat
+> git rev-parse --symbolic-full-name bot/sindat@{u}
+fatal: no upstream configured for branch 'bot/sindat'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse bot/sindat
+> git rev-parse --symbolic-full-name bot/sindat@{u}
+fatal: no upstream configured for branch 'bot/sindat'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse bot/sindat
+> git rev-parse --symbolic-full-name bot/sindat@{u}
+fatal: no upstream configured for branch 'bot/sindat'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse bot/sindat
+> git rev-parse --symbolic-full-name bot/sindat@{u}
+fatal: no upstream configured for branch 'bot/sindat'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse bot/sindat
+> git rev-parse --symbolic-full-name bot/sindat@{u}
+fatal: no upstream configured for branch 'bot/sindat'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse bot/sindat
+> git rev-parse --symbolic-full-name bot/sindat@{u}
+fatal: no upstream configured for branch 'bot/sindat'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse bot/sindat
+> git rev-parse --symbolic-full-name bot/sindat@{u}
+fatal: no upstream configured for branch 'bot/sindat'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse bot/sindat
+> git rev-parse --symbolic-full-name bot/sindat@{u}
+fatal: no upstream configured for branch 'bot/sindat'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse bot/sindat
+> git rev-parse --symbolic-full-name bot/sindat@{u}
+fatal: no upstream configured for branch 'bot/sindat'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse bot/sindat
+> git rev-parse --symbolic-full-name bot/sindat@{u}
+fatal: no upstream configured for branch 'bot/sindat'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse bot/sindat
+> git rev-parse --symbolic-full-name bot/sindat@{u}
+fatal: no upstream configured for branch 'bot/sindat'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/bots/sindat/index.ts
+> git ls-files --stage -- /home/mulukou/Projects/bots-web-service/src/bots/sindat/index.ts
+> git cat-file -s ba4ee1efe524d886688bb3f226e48b9ee701e723
+> git show --textconv :src/bots/sindat/logger.ts
+> git ls-files --stage -- /home/mulukou/Projects/bots-web-service/src/bots/sindat/logger.ts
+> git show --textconv :src/bots/sindat/index.ts
+> git ls-files --stage -- /home/mulukou/Projects/bots-web-service/src/bots/sindat/index.ts
+> git cat-file -s ba4ee1efe524d886688bb3f226e48b9ee701e723
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse bot/sindat
+> git rev-parse --symbolic-full-name bot/sindat@{u}
+fatal: no upstream configured for branch 'bot/sindat'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse bot/sindat
+> git rev-parse --symbolic-full-name bot/sindat@{u}
+fatal: no upstream configured for branch 'bot/sindat'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse bot/sindat
+> git rev-parse --symbolic-full-name bot/sindat@{u}
+fatal: no upstream configured for branch 'bot/sindat'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse bot/sindat
+> git rev-parse --symbolic-full-name bot/sindat@{u}
+fatal: no upstream configured for branch 'bot/sindat'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/bots/sindat/runYear.ts
+> git ls-files --stage -- /home/mulukou/Projects/bots-web-service/src/bots/sindat/runYear.ts
+> git cat-file -s 8c066b49f3248e6d1de6500819af4a3958d6f982
+> git show --textconv :src/bots/sindat/logger.ts
+> git ls-files --stage -- /home/mulukou/Projects/bots-web-service/src/bots/sindat/logger.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse bot/sindat
+> git rev-parse --symbolic-full-name bot/sindat@{u}
+fatal: no upstream configured for branch 'bot/sindat'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/bots/sindat/index.ts
+> git ls-files --stage -- /home/mulukou/Projects/bots-web-service/src/bots/sindat/index.ts
+> git cat-file -s ba4ee1efe524d886688bb3f226e48b9ee701e723
+> git show --textconv :src/bots/sindat/logger.ts
+> git ls-files --stage -- /home/mulukou/Projects/bots-web-service/src/bots/sindat/logger.ts
+> git show --textconv :src/bots/sindat/collectPlanned.ts
+> git ls-files --stage -- /home/mulukou/Projects/bots-web-service/src/bots/sindat/collectPlanned.ts
+> git cat-file -s 1a95512fbae5f418a466f898e8d164e4d31ee062
+> git show --textconv :src/bots/sindat/runYear.ts
+> git ls-files --stage -- /home/mulukou/Projects/bots-web-service/src/bots/sindat/runYear.ts
+> git cat-file -s 8c066b49f3248e6d1de6500819af4a3958d6f982
+> git show --textconv :src/bots/sindat/logger.ts
+> git ls-files --stage -- /home/mulukou/Projects/bots-web-service/src/bots/sindat/logger.ts
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse bot/sindat
+> git rev-parse --symbolic-full-name bot/sindat@{u}
+fatal: no upstream configured for branch 'bot/sindat'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :logs/sindat.log.10-09-2020
+> git ls-files --stage -- /home/mulukou/Projects/bots-web-service/logs/sindat.log.10-09-2020
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse bot/sindat
+> git rev-parse --symbolic-full-name bot/sindat@{u}
+fatal: no upstream configured for branch 'bot/sindat'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :logs/sindat.log
+> git ls-files --stage -- /home/mulukou/Projects/bots-web-service/logs/sindat.log
+> git show --textconv :logs/sindat.log.10-09-2020
+> git ls-files --stage -- /home/mulukou/Projects/bots-web-service/logs/sindat.log.10-09-2020
+> git show --textconv :logs/sindat.log
+> git ls-files --stage -- /home/mulukou/Projects/bots-web-service/logs/sindat.log
+> git show --textconv :logs/sindat.log.10-09-2020
+> git ls-files --stage -- /home/mulukou/Projects/bots-web-service/logs/sindat.log.10-09-2020
+> git show --textconv :src/bots/sindat/logger.ts
+> git ls-files --stage -- /home/mulukou/Projects/bots-web-service/src/bots/sindat/logger.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse bot/sindat
+> git rev-parse --symbolic-full-name bot/sindat@{u}
+fatal: no upstream configured for branch 'bot/sindat'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :logs/sindat.log.10-09-2020
+> git ls-files --stage -- /home/mulukou/Projects/bots-web-service/logs/sindat.log.10-09-2020
+> git show --textconv :src/bots/sindat/logger.ts
+> git ls-files --stage -- /home/mulukou/Projects/bots-web-service/src/bots/sindat/logger.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse bot/sindat
+> git rev-parse --symbolic-full-name bot/sindat@{u}
+fatal: no upstream configured for branch 'bot/sindat'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse bot/sindat
+> git rev-parse --symbolic-full-name bot/sindat@{u}
+fatal: no upstream configured for branch 'bot/sindat'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse bot/sindat
+> git rev-parse --symbolic-full-name bot/sindat@{u}
+fatal: no upstream configured for branch 'bot/sindat'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse bot/sindat
+> git rev-parse --symbolic-full-name bot/sindat@{u}
+fatal: no upstream configured for branch 'bot/sindat'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse bot/sindat
+> git rev-parse --symbolic-full-name bot/sindat@{u}
+fatal: no upstream configured for branch 'bot/sindat'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/bots/sindat/index.ts
+> git ls-files --stage -- /home/mulukou/Projects/bots-web-service/src/bots/sindat/index.ts
+> git cat-file -s ba4ee1efe524d886688bb3f226e48b9ee701e723
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse bot/sindat
+> git rev-parse --symbolic-full-name bot/sindat@{u}
+fatal: no upstream configured for branch 'bot/sindat'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse bot/sindat
+> git rev-parse --symbolic-full-name bot/sindat@{u}
+fatal: no upstream configured for branch 'bot/sindat'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse bot/sindat
+> git rev-parse --symbolic-full-name bot/sindat@{u}
+fatal: no upstream configured for branch 'bot/sindat'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse bot/sindat
+> git rev-parse --symbolic-full-name bot/sindat@{u}
+fatal: no upstream configured for branch 'bot/sindat'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/bots/sindat/login.ts
+> git ls-files --stage -- /home/mulukou/Projects/bots-web-service/src/bots/sindat/login.ts
+> git cat-file -s d7e794702276e7f9a1a15d37ffd045edb2d7155a
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse bot/sindat
+> git rev-parse --symbolic-full-name bot/sindat@{u}
+fatal: no upstream configured for branch 'bot/sindat'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse bot/sindat
+> git rev-parse --symbolic-full-name bot/sindat@{u}
+fatal: no upstream configured for branch 'bot/sindat'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse bot/sindat
+> git rev-parse --symbolic-full-name bot/sindat@{u}
+fatal: no upstream configured for branch 'bot/sindat'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/bots/sindat/index.ts
+> git ls-files --stage -- /home/mulukou/Projects/bots-web-service/src/bots/sindat/index.ts
+> git cat-file -s ba4ee1efe524d886688bb3f226e48b9ee701e723
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse bot/sindat
+> git rev-parse --symbolic-full-name bot/sindat@{u}
+fatal: no upstream configured for branch 'bot/sindat'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse bot/sindat
+> git rev-parse --symbolic-full-name bot/sindat@{u}
+fatal: no upstream configured for branch 'bot/sindat'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/bots/sindat/collectPlanned.ts
+> git ls-files --stage -- /home/mulukou/Projects/bots-web-service/src/bots/sindat/collectPlanned.ts
+> git cat-file -s 1a95512fbae5f418a466f898e8d164e4d31ee062
+> git show --textconv :src/bots/sindat/runYear.ts
+> git ls-files --stage -- /home/mulukou/Projects/bots-web-service/src/bots/sindat/runYear.ts
+> git cat-file -s 8c066b49f3248e6d1de6500819af4a3958d6f982
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse bot/sindat
+> git rev-parse --symbolic-full-name bot/sindat@{u}
+fatal: no upstream configured for branch 'bot/sindat'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse bot/sindat
+> git rev-parse --symbolic-full-name bot/sindat@{u}
+fatal: no upstream configured for branch 'bot/sindat'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/bots/sindat/logger.ts
+> git ls-files --stage -- /home/mulukou/Projects/bots-web-service/src/bots/sindat/logger.ts
+> git show --textconv :logs/sindat.log
+> git ls-files --stage -- /home/mulukou/Projects/bots-web-service/logs/sindat.log
+> git show --textconv :src/bots/sindat/logger.ts
+> git ls-files --stage -- /home/mulukou/Projects/bots-web-service/src/bots/sindat/logger.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse bot/sindat
+> git rev-parse --symbolic-full-name bot/sindat@{u}
+fatal: no upstream configured for branch 'bot/sindat'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse bot/sindat
+> git rev-parse --symbolic-full-name bot/sindat@{u}
+fatal: no upstream configured for branch 'bot/sindat'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/bots/sindat/index.ts
+> git ls-files --stage -- /home/mulukou/Projects/bots-web-service/src/bots/sindat/index.ts
+> git cat-file -s ba4ee1efe524d886688bb3f226e48b9ee701e723
+> git show --textconv :src/bots/sindat/logger.ts
+> git ls-files --stage -- /home/mulukou/Projects/bots-web-service/src/bots/sindat/logger.ts
+> git show --textconv :src/bots/sindat/index.ts
+> git ls-files --stage -- /home/mulukou/Projects/bots-web-service/src/bots/sindat/index.ts
+> git cat-file -s ba4ee1efe524d886688bb3f226e48b9ee701e723
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse bot/sindat
+> git rev-parse --symbolic-full-name bot/sindat@{u}
+fatal: no upstream configured for branch 'bot/sindat'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/bots/sindat/logger.ts
+> git ls-files --stage -- /home/mulukou/Projects/bots-web-service/src/bots/sindat/logger.ts
+> git show --textconv :src/bots/sindat/index.ts
+> git ls-files --stage -- /home/mulukou/Projects/bots-web-service/src/bots/sindat/index.ts
+> git cat-file -s ba4ee1efe524d886688bb3f226e48b9ee701e723
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse bot/sindat
+> git rev-parse --symbolic-full-name bot/sindat@{u}
+fatal: no upstream configured for branch 'bot/sindat'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse bot/sindat
+> git rev-parse --symbolic-full-name bot/sindat@{u}
+fatal: no upstream configured for branch 'bot/sindat'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/bots/sindat/logger.ts
+> git ls-files --stage -- /home/mulukou/Projects/bots-web-service/src/bots/sindat/logger.ts
+> git show --textconv :src/bots/sindat/index.ts
+> git ls-files --stage -- /home/mulukou/Projects/bots-web-service/src/bots/sindat/index.ts
+> git cat-file -s ba4ee1efe524d886688bb3f226e48b9ee701e723
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse bot/sindat
+> git rev-parse --symbolic-full-name bot/sindat@{u}
+fatal: no upstream configured for branch 'bot/sindat'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse bot/sindat
+> git rev-parse --symbolic-full-name bot/sindat@{u}
+fatal: no upstream configured for branch 'bot/sindat'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse bot/sindat
+> git rev-parse --symbolic-full-name bot/sindat@{u}
+fatal: no upstream configured for branch 'bot/sindat'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse bot/sindat
+> git rev-parse --symbolic-full-name bot/sindat@{u}
+fatal: no upstream configured for branch 'bot/sindat'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :logs/sindat.log
+> git ls-files --stage -- /home/mulukou/Projects/bots-web-service/logs/sindat.log
+> git show --textconv :src/bots/sindat/index.ts
+> git ls-files --stage -- /home/mulukou/Projects/bots-web-service/src/bots/sindat/index.ts
+> git cat-file -s ba4ee1efe524d886688bb3f226e48b9ee701e723
+> git show --textconv :logs/sindat.log
+> git ls-files --stage -- /home/mulukou/Projects/bots-web-service/logs/sindat.log
+> git show --textconv :src/bots/sindat/index.ts
+> git ls-files --stage -- /home/mulukou/Projects/bots-web-service/src/bots/sindat/index.ts
+> git cat-file -s ba4ee1efe524d886688bb3f226e48b9ee701e723
+> git show --textconv :logs/sindat.log
+> git ls-files --stage -- /home/mulukou/Projects/bots-web-service/logs/sindat.log
+> git show --textconv :src/bots/sindat/index.ts
+> git ls-files --stage -- /home/mulukou/Projects/bots-web-service/src/bots/sindat/index.ts
+> git cat-file -s ba4ee1efe524d886688bb3f226e48b9ee701e723
+> git show --textconv :logs/sindat.log
+> git ls-files --stage -- /home/mulukou/Projects/bots-web-service/logs/sindat.log
+> git show --textconv :src/bots/sindat/index.ts
+> git ls-files --stage -- /home/mulukou/Projects/bots-web-service/src/bots/sindat/index.ts
+> git cat-file -s ba4ee1efe524d886688bb3f226e48b9ee701e723
+> git show --textconv :logs/sindat.log
+> git ls-files --stage -- /home/mulukou/Projects/bots-web-service/logs/sindat.log
+> git show --textconv :src/bots/sindat/index.ts
+> git ls-files --stage -- /home/mulukou/Projects/bots-web-service/src/bots/sindat/index.ts
+> git cat-file -s ba4ee1efe524d886688bb3f226e48b9ee701e723
+> git show --textconv :node_modules/@tsed/logger/lib/logger/class/Logger.d.ts
+> git ls-files --stage -- /home/mulukou/Projects/bots-web-service/node_modules/@tsed/logger/lib/logger/class/Logger.d.ts
+> git check-ignore -v -z --stdin
+> git show --textconv :src/bots/sindat/index.ts
+> git ls-files --stage -- /home/mulukou/Projects/bots-web-service/src/bots/sindat/index.ts
+> git cat-file -s ba4ee1efe524d886688bb3f226e48b9ee701e723
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse bot/sindat
+> git rev-parse --symbolic-full-name bot/sindat@{u}
+fatal: no upstream configured for branch 'bot/sindat'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/bots/sindat/login.ts
+> git ls-files --stage -- /home/mulukou/Projects/bots-web-service/src/bots/sindat/login.ts
+> git cat-file -s d7e794702276e7f9a1a15d37ffd045edb2d7155a
+> git show --textconv :src/bots/sindat/collectPlanned.ts
+> git ls-files --stage -- /home/mulukou/Projects/bots-web-service/src/bots/sindat/collectPlanned.ts
+> git cat-file -s 1a95512fbae5f418a466f898e8d164e4d31ee062
