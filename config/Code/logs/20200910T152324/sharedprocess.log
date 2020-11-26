@@ -1,9 +1,0 @@
-[2020-09-10 15:23:28.428] [sharedprocess] [info] main {"machineId":"bbbe276783e691fdc6ba574b54e6df3932465a9572a18bf1c4025f056dac2600","windowId":2}
-[2020-09-10 15:23:28.639] [sharedprocess] [info] Deleted from disk pkief.material-icon-theme /home/mulukou/.vscode/extensions/pkief.material-icon-theme-4.2.0
-[2020-09-10 15:23:30.131] [sharedprocess] [info] Installing extension: ms-python.python
-[2020-09-10 15:23:36.195] [sharedprocess] [info] Downloaded extension: ms-python.python /home/mulukou/.config/Code/CachedExtensionVSIXs/ms-python.python-2020.8.108011
-[2020-09-10 15:23:38.842] [sharedprocess] [info] Extracted extension to /home/mulukou/.vscode/extensions/.ms-python.python-2020.8.108011: ms-python.python
-[2020-09-10 15:23:38.843] [sharedprocess] [info] Renamed to /home/mulukou/.vscode/extensions/ms-python.python-2020.8.108011
-[2020-09-10 15:23:38.846] [sharedprocess] [info] Installation completed. ms-python.python
-[2020-09-10 15:23:38.852] [sharedprocess] [info] Extensions installed successfully: ms-python.python
-[2020-09-10 15:24:08.443] [sharedprocess] [info] Starting to clean up unused language packs.

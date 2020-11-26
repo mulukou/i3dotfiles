@@ -1,8 +1,0 @@
-[2020-09-04 13:28:51.166] [sharedprocess] [info] main {"machineId":"bbbe276783e691fdc6ba574b54e6df3932465a9572a18bf1c4025f056dac2600","windowId":3}
-[2020-09-04 13:29:31.179] [sharedprocess] [info] Starting to clean up unused language packs.
-[2020-09-04 16:44:11.700] [sharedprocess] [info] Installing extension: beardedbear.beardedtheme
-[2020-09-04 16:44:15.247] [sharedprocess] [info] Downloaded extension: beardedbear.beardedtheme /home/mulukou/.config/Code/CachedExtensionVSIXs/beardedbear.beardedtheme-3.2.7
-[2020-09-04 16:44:15.334] [sharedprocess] [info] Extracted extension to /home/mulukou/.vscode/extensions/.beardedbear.beardedtheme-3.2.7: beardedbear.beardedtheme
-[2020-09-04 16:44:15.334] [sharedprocess] [info] Renamed to /home/mulukou/.vscode/extensions/beardedbear.beardedtheme-3.2.7
-[2020-09-04 16:44:15.334] [sharedprocess] [info] Installation completed. beardedbear.beardedtheme
-[2020-09-04 16:44:15.337] [sharedprocess] [info] Extensions installed successfully: beardedbear.beardedtheme

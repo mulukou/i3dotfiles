@@ -1,8 +1,0 @@
-[2020-09-02 13:30:56.678] [sharedprocess] [info] main {"machineId":"bbbe276783e691fdc6ba574b54e6df3932465a9572a18bf1c4025f056dac2600","windowId":2}
-[2020-09-02 13:30:58.596] [sharedprocess] [info] Installing extension: ms-vsliveshare.vsliveshare
-[2020-09-02 13:31:02.031] [sharedprocess] [info] Downloaded extension: ms-vsliveshare.vsliveshare /home/mulukou/.config/Code/CachedExtensionVSIXs/ms-vsliveshare.vsliveshare-1.0.2740
-[2020-09-02 13:31:03.033] [sharedprocess] [info] Extracted extension to /home/mulukou/.vscode/extensions/.ms-vsliveshare.vsliveshare-1.0.2740: ms-vsliveshare.vsliveshare
-[2020-09-02 13:31:03.033] [sharedprocess] [info] Renamed to /home/mulukou/.vscode/extensions/ms-vsliveshare.vsliveshare-1.0.2740
-[2020-09-02 13:31:03.037] [sharedprocess] [info] Installation completed. ms-vsliveshare.vsliveshare
-[2020-09-02 13:31:03.045] [sharedprocess] [info] Extensions installed successfully: ms-vsliveshare.vsliveshare
-[2020-09-02 13:31:36.698] [sharedprocess] [info] Starting to clean up unused language packs.

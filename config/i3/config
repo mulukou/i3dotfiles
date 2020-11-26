@@ -1,5 +1,6 @@
 # startup
 #
+exec picom &
 exec bash $HOME/.config/polybar/launch.sh &
 exec compton &
 exec nitrogen --restore &
@@ -95,7 +96,7 @@ bindsym $mod+q kill
 # There also is the (new) i3-dmenu-desktop which only displays applications
 # shipping a .desktop file. It is a wrapper around dmenu, so you need that
 # installed.
-bindsym $mod+d exec jgmenu_run
+bindsym $mod+d exec i3-dmenu-desktop
 
 # alternatively, you can use the cursor keys:
 bindsym $mod+Left focus left
